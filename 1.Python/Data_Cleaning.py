@@ -45,7 +45,7 @@ df['unit_price'] = (df['unit_price'].astype(str).str.replace(r'[^\d.,]', '', reg
 
 df['quantity'] = pd.to_numeric(df['quantity'], errors='coerce')
 df['unit_price'] = pd.to_numeric(df['unit_price'], errors='coerce')
-df['total_price'] = df['total_price'].fillna(df['quantity'] * df['unit_price'])
+
 
     # Fill missing quantity and unit_price values
 
@@ -64,7 +64,10 @@ monitor = df[df['product'] == 'Monitor']
 
 fill3 = (df['unit_price'].isna()) & (df['product'] == 'Monitor')
 df.loc[fill3, 'unit_price'] = mean_monitor_unit_price
-print(df.head(20))
 
+
+df['total_price'] = df['total_price'].fillna(df['quantity'] * df['unit_price'])
+
+print(df.head(20))
 check_NaN('total_price')
 print(mean_monitor_unit_price)
