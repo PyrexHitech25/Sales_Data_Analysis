@@ -127,8 +127,6 @@ with engine.connect() as conn:
 
 print("Database created!")
 
-# Jetzt kannst du dich mit der Datenbank verbinden
-
 engine = create_engine('mysql+pymysql://root:MyPassword!K@localhost:3306/messy_sales_db')
 
 df.to_sql('Messy_Sales_Data_Cleaned', con=engine, if_exists='append', index=False)
