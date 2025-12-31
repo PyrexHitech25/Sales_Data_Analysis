@@ -13,7 +13,7 @@ pd.set_option('display.width', 2000)
 
 # Import Data 
 
-df = pd.read_csv(r'C:\Users\loren\Documents\Data Analyst\Messy Daten\messy_sales_data_01.csv')
+df = pd.read_csv(r'C:\Users\Mypath\Messy Daten\messy_sales_data_01.csv')
 
 # Inspect Data
 
@@ -116,7 +116,7 @@ print(df.head(30))
 
 # Export Cleaned Data  
 
-df.to_csv(r'C:\Users\loren\Documents\Data Analyst\Messy Daten\messy_sales_data_01_cleaned.csv', index=False)
+df.to_csv(r'C:\Users\mypath\Messy Daten\messy_sales_data_01_cleaned.csv', index=False)
 
 
 
