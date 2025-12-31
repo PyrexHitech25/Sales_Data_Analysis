@@ -116,7 +116,11 @@ df['total_price'] = df['total_price'].fillna(df['quantity'] * df['unit_price']) 
 
 # Export Cleaned Data  
 
+<<<<<<< HEAD
 from sqlalchemy import create_engine, text
+=======
+df.to_csv(r'C:\Users\mypath\Messy Daten\messy_sales_data_01_cleaned.csv', index=False)
+>>>>>>> 71e15054d1a314a7485a003286fe00693c68a93f
 
 # Verbindung OHNE Datenbanknamen
 engine = create_engine('mysql+pymysql://root:Cyperpunk13579!K@localhost:3306/')
