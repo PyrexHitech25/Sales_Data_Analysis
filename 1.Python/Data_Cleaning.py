@@ -2,6 +2,8 @@
 
 import pandas as pd
 import numpy as np
+from sklearn.experimental import enable_iterative_imputer
+from sklearn.impute import IterativeImputer
 
 # Pandas Settings
 
@@ -15,7 +17,7 @@ df = pd.read_csv(r'C:\Users\loren\Documents\Data Analyst\Messy Daten\messy_sales
 
 # Inspect Data
 
-#print(df.head(20))
+print(df.head(20))
 
 # Cleaning Data
     # Check NaN Function
@@ -28,11 +30,18 @@ def check_NaN(column):
 
     # Clean order_date
 
-#check_NaN('order_date')
+check_NaN('order_date')
 
     # Clean Date_column
     
 df['order_date'] = df['order_date'].str.replace('/', '-')
+
+    # Timestamp Flag at 2000-01-01
+    
+df['order_date'].fillna(pd.Timestamp('2000-01-01'), inplace=True)
+
+    # Convert to datetime
+
 df['order_date'] = pd.to_datetime(df['order_date'], format='mixed', dayfirst=True, errors='coerce')
     
     # Replace values
@@ -40,34 +49,74 @@ df['order_date'] = pd.to_datetime(df['order_date'], format='mixed', dayfirst=Tru
 df['order_id'] = df['order_id'].str.replace('ORD-', '')
 df['quantity'] = df['quantity'].replace('ten', 10)
 df['unit_price'] = (df['unit_price'].astype(str).str.replace(r'[^\d.,]', '', regex=True).str.replace(',', '.', regex=False))
+df['region'] = df['region'].replace({'Usa': 'US', 'eu': 'EU', np.nan: 'Unknown'})
+df['sales_person'] = df['sales_person'].replace({'BOB': 'Bob', 'alice': 'Alice', 'NaN': np.nan})
+df['discount'] = df['discount'].str.replace(r'[^\d.,]', '', regex=True).str.replace(',', '.', regex=False)
+df['discount'] = df['discount'].replace({np.nan: 0,'5': '0.05'}).astype(float)
+df['sales_person'] = df['sales_person'].replace({np.nan: 'Unknown'})
+df['notes'] = df['notes'].replace({np.nan: 'No Notes', 'repeat customer': 'Repeat Customer', 'urgent': 'Urgent', 'late payment': 'Late Payment'})
+df['product'] = df['product'].replace(np.nan, 'Unknown')
+df['order_id'].fillna(method='ffill', inplace=True)
 
-    # Fill missing total_price values
+    # Convert to numeric
 
 df['quantity'] = pd.to_numeric(df['quantity'], errors='coerce')
 df['unit_price'] = pd.to_numeric(df['unit_price'], errors='coerce')
-
-
-    # Fill missing quantity and unit_price values
-
-fill = (df['total_price'].notna()) & (df['quantity'].isna()) & (df['unit_price'].isna())
-df.loc[fill, 'quantity'] = 1
-df.loc[fill, 'unit_price'] = df.loc[fill, 'total_price']
 
     # Drop rows where all three values are missing
 
 df = df.dropna(subset=['quantity', 'unit_price', 'total_price'], how='all', ignore_index=True)
 
-    #
+    # fill missing unit_price for specific products
 
 mean_monitor_unit_price = int(df[df['product'] == 'Monitor']['unit_price'].mean())
 monitor = df[df['product'] == 'Monitor']
+fill = (df['unit_price'].isna()) & (df['product'] == 'Monitor')
+df.loc[fill, 'unit_price'] = mean_monitor_unit_price
 
-fill3 = (df['unit_price'].isna()) & (df['product'] == 'Monitor')
-df.loc[fill3, 'unit_price'] = mean_monitor_unit_price
+mean_laptop_unit_price = int(df[df['product'] == 'Laptop']['unit_price'].mean())
+laptop = df[df['product'] == 'Laptop']
+fill2 = (df['unit_price'].isna()) & (df['product'] == 'Laptop')
+df.loc[fill2, 'unit_price'] = mean_laptop_unit_price
+
+mean_phone_unit_price = int(df[df['product'] == 'Phone']['unit_price'].mean())
+phone = df[df['product'] == 'Phone']
+fill3 = (df['unit_price'].isna()) & (df['product'] == 'Phone')
+df.loc[fill3, 'unit_price'] = mean_phone_unit_price
+
+mean_Mouse_unit_price = int(df[df['product'] == 'Mouse']['unit_price'].mean())
+mouse = df[df['product'] == 'Mouse']
+fill4 = (df['unit_price'].isna()) & (df['product'] == 'Mouse')
+df.loc[fill4, 'unit_price'] = mean_Mouse_unit_price
+
+    # Fill missing quantity and unit_price values
+
+fill5 = (df['total_price'].notna()) & (df['quantity'].isna()) & (df['unit_price'].isna())
+df.loc[fill5, 'quantity'] = 1
+df.loc[fill5, 'unit_price'] = df.loc[fill5, 'total_price']
+
+    # Multi Imputation for missing values
+
+numerical_col = ['quantity' , 'unit_price', 'total_price']
+imp = IterativeImputer(max_iter=10, random_state=0)
+df[numerical_col] = np.round(imp.fit_transform(df[numerical_col]), 1)
+
+    #Convert quantity to int
+
+df['quantity'] = df['quantity'].astype(int)
+
+# Fill total_price where missing with dis
+
+df['total_price'] = df['total_price'].fillna(df['quantity'] * df['unit_price']) * (1 - df['discount'])
+
+# Final Inspection
+print(df.info())
+print(df.head(30))
 
 
-df['total_price'] = df['total_price'].fillna(df['quantity'] * df['unit_price'])
+# Export Cleaned Data  
 
-print(df.head(20))
-check_NaN('total_price')
-print(mean_monitor_unit_price)
+df.to_csv(r'C:\Users\loren\Documents\Data Analyst\Messy Daten\messy_sales_data_01_cleaned.csv', index=False)
+
+
+
