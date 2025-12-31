@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from sklearn.experimental import enable_iterative_imputer
 from sklearn.impute import IterativeImputer
+from sqlalchemy import create_engine
 
 # Pandas Settings
 
@@ -28,7 +29,7 @@ def check_NaN(column):
     print(f'Column: {column} - Missing Values: {num_missing} ({perc_missing:.2f}%)')
 
 
-    # Clean order_date
+    # Check order_date
 
 check_NaN('order_date')
 
@@ -110,13 +111,25 @@ df['quantity'] = df['quantity'].astype(int)
 df['total_price'] = df['total_price'].fillna(df['quantity'] * df['unit_price']) * (1 - df['discount'])
 
 # Final Inspection
-print(df.info())
-print(df.head(30))
+
 
 
 # Export Cleaned Data  
 
-df.to_csv(r'C:\Users\loren\Documents\Data Analyst\Messy Daten\messy_sales_data_01_cleaned.csv', index=False)
+from sqlalchemy import create_engine, text
 
+# Verbindung OHNE Datenbanknamen
+engine = create_engine('mysql+pymysql://root:Cyperpunk13579!K@localhost:3306/')
 
+# Datenbank erstellen
+with engine.connect() as conn:
+    conn.execute(text("CREATE DATABASE IF NOT EXISTS messy_sales_db"))
+    conn.commit()
 
+print("Datenbank erstellt!")
+
+# Jetzt kannst du dich mit der Datenbank verbinden
+
+engine = create_engine('mysql+pymysql://root:Cyperpunk13579!K@localhost:3306/messy_sales_db')
+
+df.to_sql('Messy_Sales_Data_Cleaned', con=engine, if_exists='append', index=False)
