@@ -14,7 +14,6 @@ pd.set_option('display.width', 2000)
 
 # Import Data 
 
-df = pd.read_csv(r'C:\Users\loren\Documents\Data Analyst\Messy Daten\messy_sales_data_01.csv')
 
 # Inspect Data
 
