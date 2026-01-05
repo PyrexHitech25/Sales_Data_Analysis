@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from sklearn.experimental import enable_iterative_imputer
 from sklearn.impute import IterativeImputer
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine
 
 # Pandas Settings
 
@@ -14,7 +14,7 @@ pd.set_option('display.width', 2000)
 
 # Import Data 
 
-df = pd.read_csv(r'C:\Users\Mypath\Messy Daten\messy_sales_data_01.csv')
+df = pd.read_csv(r'C:\Users\loren\Documents\Data Analyst\Messy Daten\messy_sales_data_01.csv')
 
 # Inspect Data
 
@@ -112,21 +112,25 @@ df['total_price'] = df['total_price'].fillna(df['quantity'] * df['unit_price']) 
 
 # Final Inspection
 
+print(df.info())
+print(df.head(20))
 
+# Export Cleaned Data  
 
-# Export Cleaned Data to MySQL
+from sqlalchemy import create_engine, text
 
-# Connection
-
+# Verbindung OHNE Datenbanknamen
 engine = create_engine('mysql+pymysql://root:Cyperpunk13579!K@localhost:3306/')
 
-# Create Database
+# Datenbank erstellen
 with engine.connect() as conn:
     conn.execute(text("CREATE DATABASE IF NOT EXISTS messy_sales_db"))
     conn.commit()
 
-print("Database created!")
+print("Datenbank erstellt!")
 
-engine = create_engine('mysql+pymysql://root:MyPassword!K@localhost:3306/messy_sales_db')
+# Jetzt kannst du dich mit der Datenbank verbinden
 
-df.to_sql('Messy_Sales_Data_Cleaned', con=engine, if_exists='append', index=False)
+engine = create_engine('mysql+pymysql://root:Cyperpunk13579!K@localhost:3306/messy_sales_db')
+
+df.to_sql('Messy_Sales_Data_Cleaned', con=engine, if_exists='append')
