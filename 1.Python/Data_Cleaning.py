@@ -117,20 +117,4 @@ print(df.head(20))
 
 # Export Cleaned Data  
 
-from sqlalchemy import create_engine, text
-
-# Verbindung OHNE Datenbanknamen
-engine = create_engine('mysql+pymysql://root:Cyperpunk13579!K@localhost:3306/')
-
-# Datenbank erstellen
-with engine.connect() as conn:
-    conn.execute(text("CREATE DATABASE IF NOT EXISTS messy_sales_db"))
-    conn.commit()
-
-print("Datenbank erstellt!")
-
-# Jetzt kannst du dich mit der Datenbank verbinden
-
-engine = create_engine('mysql+pymysql://root:Cyperpunk13579!K@localhost:3306/messy_sales_db')
-
-df.to_sql('Messy_Sales_Data_Cleaned', con=engine, if_exists='append')
+df.to_csv(r'C:\Users\MYpath\messy_sales_data_01_cleaned.csv')
