@@ -20,8 +20,6 @@ I also created some vis for the total sales, highest product price, lowest produ
 
 Every vis is interactive and will adjust to every product you can see in my datasplit, i also added these nice icons on every category of my vis.
 
-![Page1](../Images/messy_sales_data_screenshot_01.JPG)
-
 The final result looks like this:
 
 ![Page1](../Images/messy_sales_data_screenshot_10JPG.JPG)
