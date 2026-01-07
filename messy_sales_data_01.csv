@@ -1,0 +1,1201 @@
+order_id,order_date,product,quantity,unit_price,total_price,region,sales_person,discount,notes
+ORD-1000,9/4/2023,Tablet,2,1480.33,,EU,,,repeat customer
+ORD-1001,28/1/2023,Headphones,,,,US,Frank,,urgent
+ORD-1002,2023-13-01,,,1447.61,,US,Doris,,late payment
+ORD-1003,12/6/2023,,5,$436.14,,eu,,,urgent
+ORD-1004,2023-13-01,Phone,,,1437.29,LATAM,,,
+ORD-1005,2023-04-05,Laptop,ten,,,,BOB,0.16,urgent
+ORD-1006,2023-13-01,Phone,,,9719.16,US,Eve,5%,repeat customer
+ORD-1007,2023-03-18,,,,2402.13,US,Bob,0.22,
+ORD-1008,16/9/2023,Keyboard,,$2322.99,,Usa,BOB,,urgent
+ORD-1009,1/10/2023,,4,$1581.45,683.33,Usa,Bob,,
+ORD-1010,,Monitor,,,,,Alice,0.2,urgent
+ORD-1011,28/2/2023,Monitor,,,2505.57,,,0.03,urgent
+ORD-1012,,Monitor,7,,,eu,alice,,repeat customer
+ORD-1013,2023-04-02,Mouse,1,$1262.1,,US,Charlie,0.02,repeat customer
+ORD-1014,2023-10-08,,,,9347.72,Usa,Doris,5%,late payment
+ORD-1015,2023-02-01,Phone,ten,,8809.83,Usa,Eve,,
+ORD-1016,2023-13-01,,ten,$2225.38,,LATAM,Frank,,
+ORD-1017,2023-13-01,Laptop,,,,,,0.0,repeat customer
+ORD-1018,,Tablet,,917.98,8990.26,LATAM,Bob,,
+ORD-1019,,Laptop,,$1035.17,,US,alice,,repeat customer
+ORD-1020,10/4/2023,Laptop,,,,,,0.1,urgent
+ORD-1021,2023-05-06,Phone,,,,US,alice,5%,late payment
+,17/9/2023,Mouse,7,,6637.24,eu,,,late payment
+ORD-1023,,,ten,1542.63,3045.71,,Frank,,repeat customer
+ORD-1024,2023-13-01,Camera,,$2380.48,6731.23,LATAM,Charlie,5%,
+ORD-1025,14/11/2023,Headphones,,617.52,8927.67,,Doris,,urgent
+ORD-1026,2023-13-01,Printer,,$1374.2,,,Eve,,
+ORD-1027,2023-13-01,Monitor,,$1354.98,,APAC,Doris,,late payment
+ORD-1028,,,,,,LATAM,BOB,,
+,22/7/2023,Printer,3,2268.25,,APAC,BOB,,
+ORD-1030,2023-13-01,Headphones,5,1181.06,,LATAM,Bob,0.23,urgent
+ORD-1031,1/10/2023,Monitor,,$1414.28,,Usa,Charlie,0.18,repeat customer
+ORD-1032,,Headphones,4,$2078.12,,US,Alice,,late payment
+ORD-1033,,Phone,,$2073.48,,eu,,,
+ORD-1034,2023-10-09,Keyboard,ten,,,Usa,Charlie,,late payment
+ORD-1035,2023-10-23,Camera,4,$1022.01,,,BOB,0.24,late payment
+ORD-1036,2023-13-01,Printer,,,,eu,Eve,0.08,repeat customer
+ORD-1037,25/12/2023,Monitor,,,9805.3,eu,Doris,,urgent
+ORD-1038,2023-13-01,Tablet,8,,,APAC,Alice,,urgent
+ORD-1039,2023-07-16,Tablet,,,,LATAM,,,late payment
+ORD-1040,2023-07-10,,ten,1567.53,1579.0,US,Charlie,,
+ORD-1041,2023-13-01,Printer,ten,$1971.69,,LATAM,Charlie,5%,urgent
+ORD-1042,2023-13-01,Printer,,,,,Bob,,late payment
+ORD-1043,2023-01-03,,5,,9161.57,,BOB,,late payment
+ORD-1044,2023-13-01,Headphones,,1659.83,,eu,Frank,,
+ORD-1045,,Headphones,ten,,6257.83,LATAM,Eve,,
+ORD-1046,1/11/2023,Tablet,5,1385.11,4619.86,APAC,BOB,,
+ORD-1047,16/8/2023,Printer,ten,$2305.45,,,Frank,,urgent
+ORD-1048,,Tablet,,,,LATAM,Doris,5%,
+,,,,,,US,,0.27,repeat customer
+ORD-1050,2023-13-01,Mouse,,,,,,0.01,repeat customer
+ORD-1051,,Phone,,424.25,469.45,eu,Frank,5%,repeat customer
+ORD-1052,26/3/2023,Tablet,,$609.67,,eu,BOB,0.08,
+ORD-1053,,Mouse,,,,LATAM,alice,0.26,repeat customer
+ORD-1054,2023-13-01,Laptop,,30.16,,,Eve,5%,
+ORD-1055,2023-13-01,,3,,7888.22,Usa,Charlie,,late payment
+ORD-1056,2023-13-01,Camera,,,,Usa,Bob,0.14,repeat customer
+ORD-1057,,Camera,6,1978.8,,eu,alice,,urgent
+ORD-1058,2023-13-01,,4,,6495.9,APAC,Alice,,
+ORD-1059,,Mouse,,,,,Eve,,repeat customer
+ORD-1060,2023-13-01,Camera,6,1001.37,,US,Doris,0.19,urgent
+ORD-1061,26/10/2023,Phone,ten,$2034.5,3292.31,EU,Eve,5%,repeat customer
+ORD-1062,22/1/2023,Laptop,ten,,,,,0.03,
+ORD-1063,,Camera,4,,4585.84,EU,BOB,,urgent
+ORD-1064,3/6/2023,Phone,,,,eu,BOB,,urgent
+ORD-1065,21/11/2023,Headphones,ten,,4165.74,Usa,alice,,late payment
+ORD-1066,2023-11-16,Phone,7,$937.89,,Usa,Bob,,urgent
+ORD-1067,12/2/2023,Tablet,ten,,,LATAM,alice,0.25,
+ORD-1068,2023-13-01,Keyboard,,,,EU,Bob,5%,
+ORD-1069,2023-13-01,,10,2209.52,,,alice,,
+ORD-1070,2023-09-04,Keyboard,,$777.96,,EU,Alice,5%,repeat customer
+ORD-1071,,Headphones,ten,,,EU,alice,0.01,late payment
+ORD-1072,,Keyboard,,,,US,alice,5%,
+ORD-1073,2023-13-01,Monitor,ten,$1586.73,,Usa,Charlie,5%,late payment
+ORD-1074,2023-10-05,Tablet,,,,Usa,Frank,0.05,
+ORD-1075,2023-05-26,Mouse,9,782.92,,US,Bob,,
+ORD-1076,15/10/2023,Mouse,,,,US,,0.19,repeat customer
+ORD-1077,17/10/2023,Mouse,,974.67,,Usa,Bob,,late payment
+ORD-1078,2023-13-01,Phone,ten,,,US,Eve,,repeat customer
+ORD-1079,,Camera,6,$458.85,,LATAM,Doris,5%,urgent
+ORD-1080,2023-02-17,,ten,$394.09,,APAC,BOB,,repeat customer
+ORD-1081,,Monitor,ten,,9040.7,Usa,BOB,,
+ORD-1082,27/4/2023,Keyboard,,2186.55,,US,Eve,5%,late payment
+ORD-1083,2023-09-05,Monitor,,,5025.05,,Bob,0.11,late payment
+ORD-1084,11/3/2023,Laptop,,,4491.53,US,Alice,5%,
+ORD-1085,2023-13-01,Monitor,5,,,EU,,5%,late payment
+ORD-1086,,Tablet,,178.52,,EU,alice,,urgent
+ORD-1087,2023-02-12,,ten,$1369.57,,,BOB,5%,urgent
+ORD-1088,2023-08-02,Monitor,,,,LATAM,Eve,0.11,late payment
+ORD-1089,,Headphones,ten,,,,Bob,5%,
+ORD-1090,2023-13-01,Keyboard,,,,,Eve,0.19,urgent
+ORD-1091,17/12/2023,Laptop,,,,EU,Charlie,,late payment
+ORD-1092,2023-13-01,Headphones,,$292.49,,US,Eve,,repeat customer
+ORD-1093,2023-05-23,Tablet,,439.91,,Usa,Bob,,late payment
+ORD-1094,23/11/2023,Mouse,ten,$510.44,,EU,Frank,,
+ORD-1095,2023-09-05,Keyboard,,1318.98,,US,BOB,,repeat customer
+ORD-1096,19/3/2023,Headphones,9,,,LATAM,Frank,,urgent
+ORD-1097,2023-13-01,,9,$429.9,,Usa,Alice,0.25,urgent
+,19/5/2023,,7,,,,Doris,,late payment
+ORD-1099,,Printer,ten,,,,Charlie,0.23,late payment
+ORD-1100,15/4/2023,Phone,,,2490.22,Usa,Frank,5%,
+ORD-1101,2023-08-16,Phone,,,,,BOB,0.09,urgent
+ORD-1102,2023-13-01,Laptop,7,,,,,0.08,repeat customer
+ORD-1103,2023-13-01,Tablet,,$122.81,,,Charlie,5%,late payment
+ORD-1104,2023-13-01,,,1774.76,,US,alice,0.18,
+ORD-1105,25/10/2023,Laptop,,,,LATAM,Alice,0.17,repeat customer
+,5/7/2023,Headphones,,2183.32,,LATAM,,,
+ORD-1107,2023-13-01,,,,,eu,Doris,,late payment
+ORD-1108,2023-13-01,Phone,,,9546.54,eu,Alice,0.09,late payment
+ORD-1109,24/8/2023,Monitor,,$1743.47,,LATAM,Doris,5%,repeat customer
+ORD-1110,2023-07-11,,3,$2445.0,,,Doris,,late payment
+ORD-1111,3/11/2023,Camera,ten,1050.53,,,Charlie,,urgent
+,2023-13-01,Printer,,,2735.64,Usa,Charlie,,repeat customer
+,10/10/2023,Tablet,,2069.2,4014.32,APAC,Charlie,5%,urgent
+ORD-1114,2023-13-01,Keyboard,10,$905.28,630.62,,Eve,,urgent
+ORD-1115,20/4/2023,Tablet,ten,,,,,5%,repeat customer
+ORD-1116,,Camera,6,$289.4,5731.29,APAC,Frank,,urgent
+ORD-1117,,Laptop,ten,1287.99,,eu,Alice,0.12,repeat customer
+ORD-1118,2023-01-14,Camera,1,,4094.58,,Frank,,
+ORD-1119,3/11/2023,,6,$1347.77,7281.3,EU,Alice,,
+ORD-1120,,Mouse,,479.32,,,Alice,0.07,urgent
+ORD-1121,2023-08-20,Monitor,,1103.02,,LATAM,Frank,,repeat customer
+ORD-1122,,Keyboard,5,$1483.25,,,Alice,,
+ORD-1123,,Tablet,,$571.11,8059.7,,alice,5%,
+ORD-1124,,Mouse,ten,138.33,8737.47,LATAM,BOB,,late payment
+ORD-1125,2023-01-07,Printer,ten,,,,,,late payment
+ORD-1126,,Mouse,,$123.83,7415.11,eu,,,late payment
+ORD-1127,13/10/2023,Printer,,,,Usa,Charlie,,repeat customer
+ORD-1128,2023-09-21,Phone,1,$2107.94,689.0,EU,Doris,,urgent
+ORD-1129,,Laptop,,,,EU,,,repeat customer
+ORD-1130,5/4/2023,,,,,,Doris,5%,late payment
+ORD-1131,2023-02-21,Phone,,949.15,7031.42,,alice,,
+ORD-1132,2/4/2023,,,,,EU,Charlie,,urgent
+ORD-1133,,Phone,ten,,,Usa,alice,5%,urgent
+ORD-1134,4/7/2023,Phone,,,,,Doris,,
+ORD-1135,2023-13-01,Monitor,2,$956.2,,Usa,Bob,,
+ORD-1136,5/2/2023,Headphones,,267.2,,,Alice,,urgent
+ORD-1137,19/9/2023,,ten,,1467.89,,Eve,,urgent
+ORD-1138,21/8/2023,Printer,ten,,,Usa,BOB,5%,late payment
+ORD-1139,16/6/2023,Headphones,,$1585.93,,,Frank,5%,
+ORD-1140,2023-03-22,Printer,,1996.24,,,Charlie,5%,late payment
+ORD-1141,2023-12-14,Printer,,,,US,Bob,,repeat customer
+ORD-1142,,Mouse,7,$654.26,,,,0.05,
+ORD-1143,4/12/2023,Mouse,,,3489.52,,BOB,,urgent
+ORD-1144,2023-02-01,,ten,,,LATAM,alice,5%,
+ORD-1145,,Headphones,ten,522.4,,APAC,Frank,,urgent
+ORD-1146,,,7,$2115.34,,eu,Bob,,urgent
+ORD-1147,12/12/2023,Camera,,,,APAC,,,repeat customer
+ORD-1148,2023-08-20,Printer,ten,,,,BOB,0.15,
+,2/5/2023,Camera,ten,,5501.76,US,Eve,,
+ORD-1150,24/8/2023,Headphones,ten,,2635.52,,Bob,5%,repeat customer
+ORD-1151,,Tablet,ten,1964.27,,eu,,,late payment
+ORD-1152,27/2/2023,Headphones,,$325.95,,Usa,Doris,,
+ORD-1153,,Printer,2,,,Usa,Alice,0.26,
+ORD-1154,,Monitor,ten,,,APAC,BOB,0.24,urgent
+ORD-1155,,Printer,,$1724.59,,APAC,Eve,,late payment
+ORD-1156,,,ten,1078.79,,US,Charlie,,urgent
+,4/7/2023,Printer,ten,963.84,,eu,Charlie,5%,repeat customer
+ORD-1158,20/11/2023,Printer,ten,,,LATAM,Bob,5%,urgent
+ORD-1159,14/6/2023,Monitor,5,,,EU,Eve,5%,
+ORD-1160,,Headphones,ten,1253.96,,APAC,alice,,late payment
+ORD-1161,2023-03-25,,2,662.84,,eu,,,
+ORD-1162,2023-13-01,Phone,5,$515.96,,US,Eve,5%,urgent
+ORD-1163,2023-07-04,Keyboard,3,41.54,,eu,Charlie,,urgent
+ORD-1164,2023-13-01,Camera,,1783.68,,Usa,Alice,5%,late payment
+ORD-1165,2023-02-19,Monitor,9,$2158.69,,,Charlie,0.05,
+ORD-1166,21/7/2023,Mouse,,2290.48,5719.64,EU,Charlie,0.07,
+ORD-1167,2023-13-01,Phone,,,7398.36,,Frank,,repeat customer
+ORD-1168,26/4/2023,Laptop,7,590.16,9510.39,,Eve,5%,
+ORD-1169,2023-01-05,Laptop,,1755.11,,APAC,alice,0.02,
+ORD-1170,2023-13-01,Headphones,,$591.69,,US,Charlie,,
+ORD-1171,,Keyboard,,,,EU,Doris,,repeat customer
+ORD-1172,2023-04-12,,,,,LATAM,Bob,5%,urgent
+,2023-13-01,,,2294.4,,,Charlie,,urgent
+,,Headphones,8,,2155.01,eu,Eve,5%,urgent
+ORD-1175,,Headphones,,$706.64,,LATAM,,,late payment
+ORD-1176,2023-13-01,Headphones,ten,74.9,,EU,BOB,5%,repeat customer
+ORD-1177,2023-11-08,Monitor,,$2099.66,,Usa,Frank,0.27,late payment
+ORD-1178,,Camera,ten,$234.74,6020.61,,Alice,5%,repeat customer
+ORD-1179,2023-03-26,Laptop,ten,,,,Bob,,repeat customer
+ORD-1180,,,ten,,,APAC,alice,,repeat customer
+ORD-1181,2023-01-23,Tablet,,$2419.15,6400.07,,Charlie,0.1,repeat customer
+ORD-1182,2023-13-01,Printer,,,2574.01,EU,Alice,,repeat customer
+ORD-1183,,Phone,ten,415.01,,eu,Bob,5%,
+ORD-1184,,Laptop,ten,1522.22,1021.57,LATAM,alice,,late payment
+ORD-1185,,Tablet,,,2004.75,LATAM,Charlie,0.19,
+ORD-1186,,,5,,,APAC,BOB,,
+ORD-1187,2023-05-19,Phone,,2427.06,,,,,
+ORD-1188,2023-08-10,Camera,ten,$1895.4,9491.12,LATAM,Doris,,urgent
+ORD-1189,27/11/2023,,,2277.9,,,,,
+ORD-1190,,Phone,ten,379.02,,US,Eve,,
+ORD-1191,,Laptop,,,,LATAM,Alice,,late payment
+,2023-05-10,Monitor,,,,US,Doris,,
+ORD-1193,2/9/2023,Phone,,347.77,1745.64,EU,Doris,0.01,late payment
+ORD-1194,,,2,,,Usa,Frank,,urgent
+ORD-1195,6/10/2023,Monitor,ten,680.02,,EU,BOB,5%,
+ORD-1196,2023-13-01,Headphones,,,,,Bob,,
+ORD-1197,2023-10-10,Printer,,,,eu,Doris,5%,urgent
+ORD-1198,22/6/2023,Laptop,,,,LATAM,Frank,5%,
+ORD-1199,2023-13-01,Tablet,ten,,,APAC,Frank,5%,late payment
+ORD-1200,2023-13-01,Keyboard,,1164.76,,US,BOB,0.27,
+ORD-1201,28/3/2023,Monitor,,,,APAC,Bob,5%,late payment
+ORD-1202,9/4/2023,,,$1951.58,,,alice,,
+,2023-09-07,Mouse,ten,$20.27,,eu,Charlie,,repeat customer
+ORD-1204,2023-13-01,Headphones,,$1230.54,,EU,Doris,5%,repeat customer
+ORD-1205,2023-13-01,,,2192.59,5943.3,US,Alice,0.01,
+ORD-1206,9/8/2023,Monitor,,,,APAC,alice,0.25,
+ORD-1207,,Monitor,ten,$2080.43,,eu,Charlie,,repeat customer
+ORD-1208,2023-08-11,,2,$1675.86,,US,Bob,5%,
+ORD-1209,2023-05-09,Tablet,,,7388.02,EU,Alice,5%,late payment
+ORD-1210,2023-08-20,Mouse,ten,,,,alice,5%,urgent
+ORD-1211,2023-12-02,Headphones,,$1699.2,,EU,Charlie,,urgent
+ORD-1212,2023-13-01,Laptop,ten,,,US,alice,5%,
+ORD-1213,2023-11-21,Laptop,,2131.16,,LATAM,Frank,0.29,
+ORD-1214,2023-11-13,Printer,,,,EU,Bob,0.12,
+ORD-1215,2023-13-01,Camera,ten,,3639.79,LATAM,BOB,,late payment
+ORD-1216,25/11/2023,Laptop,,,,US,Alice,,repeat customer
+ORD-1217,2023-13-01,,ten,$2131.96,4575.89,Usa,Bob,0.23,
+ORD-1218,22/10/2023,Printer,1,,9244.47,APAC,Charlie,,
+ORD-1219,2023-13-01,Headphones,,,,eu,,5%,repeat customer
+ORD-1220,22/6/2023,,,,,,,,urgent
+ORD-1221,2023-01-13,Monitor,ten,$1711.64,,eu,Doris,0.23,late payment
+ORD-1222,28/11/2023,,,,6932.43,,alice,,
+ORD-1223,,Monitor,ten,,,US,Charlie,0.29,
+,9/3/2023,,5,$1777.13,,EU,Eve,,urgent
+ORD-1225,2023-06-17,Camera,,,2219.77,Usa,Frank,5%,
+ORD-1226,2023-09-27,Phone,,$1609.24,,Usa,alice,0.27,
+ORD-1227,2023-13-01,Camera,,$748.12,3209.92,US,Charlie,0.29,urgent
+ORD-1228,,Phone,,$2349.98,,Usa,Alice,0.03,repeat customer
+ORD-1229,2023-13-01,Headphones,,1579.24,3901.12,EU,Bob,0.23,urgent
+ORD-1230,2023-13-01,,,,8223.0,,Charlie,5%,
+ORD-1231,2023-13-01,,6,1388.28,,,,0.16,late payment
+ORD-1232,,,ten,,1951.32,EU,,0.14,late payment
+ORD-1233,,Mouse,ten,,6198.96,Usa,BOB,,
+ORD-1234,,Tablet,,,,APAC,Frank,,
+ORD-1235,18/2/2023,,10,$2148.2,8914.06,eu,Bob,0.22,
+ORD-1236,13/10/2023,Laptop,,,6542.54,Usa,alice,,repeat customer
+ORD-1237,2023-09-03,,ten,$359.52,,APAC,BOB,0.28,repeat customer
+ORD-1238,9/6/2023,Laptop,,976.35,,Usa,Bob,,late payment
+ORD-1239,,Mouse,10,$947.06,,Usa,BOB,0.24,
+ORD-1240,2023-13-01,Monitor,ten,401.82,,Usa,Bob,,
+ORD-1241,2023-03-21,Monitor,ten,1437.98,8909.07,EU,Charlie,5%,
+ORD-1242,2023-13-01,Phone,,,,APAC,Charlie,,repeat customer
+ORD-1243,2023-06-15,Monitor,,,,US,Charlie,0.14,
+ORD-1244,16/11/2023,,9,,,EU,,,
+ORD-1245,2023-12-25,Headphones,,1198.08,,,Eve,0.06,
+ORD-1246,13/11/2023,Mouse,,,,,Frank,,repeat customer
+ORD-1247,,Keyboard,,$1001.34,,US,Doris,5%,urgent
+ORD-1248,2023-07-26,Tablet,7,,,US,Bob,,urgent
+ORD-1249,2023-13-01,,ten,$1103.04,,eu,Doris,5%,
+ORD-1250,2023-01-12,Tablet,,,4060.46,EU,Bob,,
+ORD-1251,27/5/2023,,,,,US,,,late payment
+ORD-1252,2023-13-01,Printer,,,,EU,BOB,0.03,
+ORD-1253,2023-13-01,Headphones,6,,,Usa,Bob,5%,
+ORD-1254,9/3/2023,Printer,ten,$2183.13,2299.78,Usa,Charlie,0.23,urgent
+ORD-1255,2023-11-16,Printer,,,,eu,alice,5%,urgent
+ORD-1256,2023-13-01,Headphones,,,3163.36,EU,Doris,0.11,late payment
+ORD-1257,18/5/2023,Keyboard,,$1251.94,,Usa,alice,5%,
+ORD-1258,2023-13-01,Monitor,,$498.2,4735.14,APAC,alice,,
+ORD-1259,,Phone,3,546.51,,eu,Frank,,late payment
+,28/11/2023,,ten,,,,Bob,,
+ORD-1261,2023-13-01,Headphones,,$187.65,,Usa,Eve,,late payment
+ORD-1262,,Headphones,ten,$321.35,,US,Doris,0.05,urgent
+ORD-1263,,Camera,2,,3100.61,eu,BOB,5%,
+ORD-1264,2023-13-01,Printer,,$346.44,,,,,late payment
+ORD-1265,2023-13-01,Mouse,,$36.28,,EU,BOB,,late payment
+,10/10/2023,Laptop,,,3953.57,,alice,0.07,
+ORD-1267,2023-13-01,Keyboard,,$2135.17,1374.87,,BOB,,repeat customer
+ORD-1268,18/1/2023,Phone,,321.35,2335.78,EU,BOB,,late payment
+ORD-1269,2023-08-12,Mouse,ten,149.54,5436.49,LATAM,Eve,0.25,urgent
+ORD-1270,13/8/2023,Laptop,,$243.96,,eu,Frank,0.05,
+ORD-1271,21/5/2023,Mouse,ten,,3251.89,eu,Bob,5%,urgent
+ORD-1272,23/8/2023,Mouse,ten,,,EU,Alice,5%,
+ORD-1273,2023-13-01,Printer,4,$901.84,2514.46,,BOB,,repeat customer
+ORD-1274,,Keyboard,ten,,,Usa,BOB,,repeat customer
+ORD-1275,12/10/2023,Mouse,,$1711.23,,,Frank,0.03,urgent
+ORD-1276,28/1/2023,Phone,ten,,,eu,Alice,0.11,urgent
+ORD-1277,,,,,,EU,Eve,0.16,late payment
+ORD-1278,4/2/2023,Camera,ten,$1645.62,,,Bob,,
+ORD-1279,,Camera,ten,,,Usa,Frank,,late payment
+ORD-1280,2023-13-01,Mouse,,2399.96,,EU,,,urgent
+ORD-1281,2023-04-07,Keyboard,ten,$1156.32,,LATAM,Doris,,urgent
+ORD-1282,2023-13-01,Printer,,2066.01,,EU,alice,0.02,late payment
+ORD-1283,28/2/2023,,10,1588.38,3054.79,Usa,,,
+ORD-1284,,Printer,10,,,US,BOB,0.17,
+ORD-1285,17/7/2023,Tablet,ten,$1634.1,,LATAM,Doris,,late payment
+ORD-1286,,Headphones,,484.32,7699.12,Usa,BOB,,urgent
+ORD-1287,22/6/2023,Phone,2,$1556.3,,EU,Frank,0.21,late payment
+ORD-1288,7/12/2023,Monitor,,$1561.37,,EU,alice,0.17,late payment
+ORD-1289,2023-13-01,Laptop,8,,8644.18,eu,alice,,
+ORD-1290,2023-02-11,Tablet,,1406.11,,eu,Frank,5%,urgent
+ORD-1291,21/5/2023,Camera,5,1568.22,,LATAM,Charlie,,repeat customer
+ORD-1292,22/10/2023,Headphones,ten,,4497.2,LATAM,Charlie,5%,repeat customer
+ORD-1293,5/7/2023,,ten,800.57,1849.51,EU,Frank,,
+ORD-1294,2023-13-01,Tablet,4,,,LATAM,Doris,0.07,late payment
+ORD-1295,,,ten,$1233.7,1646.23,EU,alice,0.23,late payment
+ORD-1296,22/4/2023,Phone,,,8669.08,,alice,,late payment
+ORD-1297,2023-12-19,Camera,,$2195.64,,EU,,0.12,repeat customer
+ORD-1298,,Tablet,,$145.82,,,Bob,0.22,repeat customer
+ORD-1299,,Mouse,8,$1479.89,8826.66,eu,Frank,5%,urgent
+ORD-1300,2023-12-15,Camera,ten,$957.71,,APAC,Charlie,5%,urgent
+ORD-1301,2023-13-01,,3,2247.37,,EU,BOB,,
+ORD-1302,,Printer,,$1504.25,,LATAM,Alice,0.06,late payment
+,2023-13-01,Mouse,2,$2484.4,,APAC,BOB,,urgent
+ORD-1304,2023-05-11,Headphones,9,,,LATAM,Doris,0.18,
+ORD-1305,2023-13-01,Headphones,,,,,,,
+ORD-1306,23/5/2023,Laptop,2,$1993.86,,,Alice,5%,urgent
+ORD-1307,2023-13-01,Keyboard,,,,EU,Charlie,,
+ORD-1308,5/8/2023,,,1161.55,,Usa,,5%,
+ORD-1309,2023-06-03,Mouse,ten,1431.74,,Usa,Alice,0.08,
+ORD-1310,27/5/2023,Camera,ten,$1964.51,,EU,BOB,5%,repeat customer
+ORD-1311,2023-13-01,Mouse,3,$2345.68,2059.82,,alice,0.21,urgent
+ORD-1312,2023-01-22,Mouse,8,,,LATAM,Frank,,late payment
+ORD-1313,4/5/2023,Tablet,5,47.99,,Usa,Eve,,
+ORD-1314,,Laptop,3,1182.13,3842.16,,alice,,
+ORD-1315,2023-06-27,Printer,ten,,,,BOB,5%,repeat customer
+ORD-1316,12/7/2023,,,,,,Charlie,,
+ORD-1317,2023-09-04,Mouse,9,,5909.45,LATAM,,,
+ORD-1318,,Headphones,,1365.87,,,Bob,,late payment
+ORD-1319,2023-08-06,,,825.25,914.42,EU,Charlie,,
+ORD-1320,15/4/2023,,,,,Usa,Bob,,repeat customer
+ORD-1321,2023-01-12,Camera,6,$2165.54,,,Frank,,
+ORD-1322,6/8/2023,Monitor,,,,APAC,Charlie,0.0,repeat customer
+ORD-1323,2023-08-22,Tablet,,,,,,,late payment
+ORD-1324,,Monitor,,,344.28,,Frank,,urgent
+ORD-1325,,Camera,2,620.63,,eu,Alice,0.27,
+ORD-1326,,Mouse,,,,eu,Alice,5%,
+ORD-1327,2023-05-26,Keyboard,8,,,eu,Eve,0.26,urgent
+ORD-1328,,Mouse,,$598.13,7995.73,Usa,Bob,5%,
+ORD-1329,,,ten,1448.62,6426.19,EU,Charlie,,late payment
+ORD-1330,,Printer,ten,,,,Frank,0.29,urgent
+ORD-1331,2023-13-01,Mouse,,,,LATAM,Doris,5%,late payment
+ORD-1332,2023-11-01,Headphones,2,,2526.44,EU,Bob,5%,
+ORD-1333,3/10/2023,Headphones,ten,,,US,BOB,,
+ORD-1334,2023-13-01,Tablet,,,,eu,Charlie,,repeat customer
+ORD-1335,16/2/2023,Camera,ten,,7156.85,EU,Bob,,
+,2023-08-05,Laptop,,,,,BOB,0.13,
+ORD-1337,2023-07-23,,,840.26,,US,Frank,,urgent
+ORD-1338,2023-05-21,Headphones,,,,,Doris,5%,urgent
+ORD-1339,2023-10-08,Camera,,,9666.08,EU,Frank,0.02,
+ORD-1340,17/8/2023,,4,101.83,,EU,Doris,5%,urgent
+ORD-1341,,,3,,,LATAM,Bob,,late payment
+ORD-1342,2023-12-22,,ten,$2412.08,,APAC,Frank,,repeat customer
+ORD-1343,12/9/2023,Printer,4,,7778.84,,Bob,5%,urgent
+ORD-1344,,Tablet,ten,,2400.15,EU,Charlie,0.22,late payment
+ORD-1345,2023-01-18,Camera,,$2467.09,,LATAM,Eve,0.02,repeat customer
+ORD-1346,2023-08-16,Laptop,,,,EU,,0.05,
+ORD-1347,2023-13-01,Headphones,,$284.23,,,Doris,5%,urgent
+ORD-1348,14/3/2023,,ten,$349.65,,LATAM,Frank,0.04,late payment
+ORD-1349,2023-13-01,Monitor,ten,$1598.62,,LATAM,Bob,,repeat customer
+ORD-1350,,Monitor,,$563.79,9138.41,,Alice,,
+,2023-09-13,Printer,ten,,9499.84,Usa,Eve,0.07,urgent
+ORD-1352,2023-05-06,Printer,ten,,,EU,Bob,,
+,9/12/2023,,,,8880.9,,Frank,0.14,late payment
+ORD-1354,23/2/2023,Tablet,ten,$1626.11,7534.2,Usa,Frank,,late payment
+ORD-1355,2023-06-12,Printer,,1135.43,,US,Bob,5%,late payment
+ORD-1356,2023-02-04,Tablet,ten,2188.73,,APAC,BOB,,urgent
+ORD-1357,2023-13-01,Headphones,,,,,BOB,5%,late payment
+ORD-1358,2023-13-01,Laptop,,$2390.97,,APAC,Charlie,5%,repeat customer
+ORD-1359,,Keyboard,ten,,9780.45,Usa,BOB,5%,
+ORD-1360,,Mouse,3,,,,Eve,5%,
+ORD-1361,,Laptop,3,$1010.06,4465.27,Usa,Alice,5%,
+ORD-1362,,,,494.18,,,Charlie,,late payment
+ORD-1363,2023-13-01,Printer,9,,,APAC,alice,,repeat customer
+ORD-1364,2023-13-01,Printer,,,,eu,alice,,
+ORD-1365,2023-13-01,Camera,8,,,,Doris,0.01,repeat customer
+ORD-1366,2023-11-27,,,$2267.92,,,Bob,,
+ORD-1367,,Phone,6,2114.75,,APAC,Frank,,late payment
+ORD-1368,2023-06-02,Camera,ten,$1500.92,,eu,Eve,,urgent
+ORD-1369,5/1/2023,Camera,,$1035.87,1033.15,LATAM,Doris,0.24,
+ORD-1370,2023-02-04,Printer,,,,Usa,Charlie,0.21,urgent
+ORD-1371,2023-13-01,Tablet,ten,2452.96,,,Alice,0.06,
+ORD-1372,2023-08-04,Keyboard,1,$2301.04,5880.15,APAC,Frank,5%,late payment
+ORD-1373,6/9/2023,Camera,10,256.77,,LATAM,Eve,0.05,urgent
+ORD-1374,2023-13-01,,,,,LATAM,,0.07,late payment
+ORD-1375,2023-13-01,Keyboard,9,,,eu,BOB,,late payment
+ORD-1376,,,ten,41.84,,US,Bob,,
+ORD-1377,3/6/2023,Mouse,,,,eu,alice,,
+ORD-1378,2023-03-25,Keyboard,,584.75,1005.04,US,BOB,5%,
+ORD-1379,2023-06-05,Phone,,,,Usa,,0.16,
+ORD-1380,,Printer,8,,8848.16,,alice,,
+ORD-1381,,Printer,ten,,,Usa,Eve,0.1,
+,2023-06-12,,,,4125.18,LATAM,Doris,,
+ORD-1383,2023-12-03,Mouse,3,,,eu,Alice,0.21,late payment
+ORD-1384,,Phone,,,,Usa,alice,0.06,
+ORD-1385,,Monitor,10,,,,alice,0.06,late payment
+ORD-1386,2023-13-01,Monitor,,$1293.27,,APAC,BOB,,late payment
+ORD-1387,2023-09-26,Camera,,,,Usa,Bob,,late payment
+ORD-1388,9/11/2023,Headphones,4,,,,alice,0.19,repeat customer
+ORD-1389,9/5/2023,,,1957.76,,US,alice,0.27,
+ORD-1390,2023-12-27,,9,,4969.55,LATAM,Bob,,late payment
+ORD-1391,26/12/2023,Headphones,ten,,,EU,BOB,0.16,late payment
+ORD-1392,8/5/2023,Mouse,,2055.2,,EU,Doris,,late payment
+ORD-1393,2023-12-12,Camera,,,,eu,Bob,5%,late payment
+ORD-1394,,Laptop,5,,,,Bob,,
+ORD-1395,2023-13-01,Printer,1,,7912.28,EU,alice,,late payment
+ORD-1396,8/9/2023,,,$2185.03,,Usa,Eve,,late payment
+ORD-1397,2023-07-27,Laptop,ten,$2435.58,2625.21,EU,alice,,repeat customer
+ORD-1398,2023-06-06,Camera,,$1240.43,7138.5,eu,Eve,,repeat customer
+ORD-1399,7/5/2023,Headphones,,,,LATAM,Frank,,urgent
+,,,,,,EU,Alice,5%,
+ORD-1401,2023-10-22,Laptop,,,,EU,Charlie,,late payment
+ORD-1402,,Tablet,5,,,Usa,alice,,
+ORD-1403,11/7/2023,Mouse,ten,,541.69,EU,Doris,,late payment
+ORD-1404,2023-08-14,Printer,,$290.1,1245.31,LATAM,Eve,5%,
+ORD-1405,2023-10-22,Camera,ten,,,EU,Eve,0.2,
+ORD-1406,2023-02-27,Phone,,1140.6,3300.97,,Frank,5%,repeat customer
+ORD-1407,2023-11-10,Camera,,$645.36,,US,Alice,5%,
+ORD-1408,25/11/2023,Phone,,,,APAC,Frank,,
+ORD-1409,,Phone,,,,Usa,BOB,5%,
+ORD-1410,,Headphones,,,,,Eve,0.17,urgent
+ORD-1411,,,,895.09,,,Charlie,,urgent
+ORD-1412,,,,$2296.1,2118.57,eu,Bob,0.13,urgent
+ORD-1413,,Headphones,,,,,Eve,5%,urgent
+ORD-1414,7/1/2023,Printer,ten,$1568.89,,APAC,BOB,0.13,repeat customer
+ORD-1415,,Laptop,ten,,518.71,US,alice,,
+ORD-1416,,Printer,,587.45,,US,Eve,,
+ORD-1417,,Laptop,,,2328.71,Usa,BOB,,
+ORD-1418,,Tablet,ten,,1299.67,APAC,BOB,,
+ORD-1419,2023-13-01,Keyboard,ten,445.04,,,Bob,0.19,
+ORD-1420,2023-05-11,Camera,ten,2134.99,,,Bob,0.29,
+,21/2/2023,Mouse,,,7328.19,APAC,Frank,5%,urgent
+ORD-1422,25/1/2023,Printer,,,,Usa,Doris,,repeat customer
+ORD-1423,2023-13-01,Laptop,ten,1927.68,,,Charlie,,urgent
+ORD-1424,2023-13-01,Headphones,,,,APAC,alice,5%,
+ORD-1425,2023-13-01,,ten,,,APAC,,,repeat customer
+ORD-1426,17/6/2023,Laptop,,,9869.68,EU,Frank,,urgent
+,2023-11-04,Printer,ten,$2472.61,,APAC,alice,5%,urgent
+ORD-1428,,Phone,,2072.81,4254.62,,Doris,,
+ORD-1429,2023-13-01,,,,,APAC,Charlie,,
+ORD-1430,2023-12-17,Monitor,,,9217.76,,Bob,,urgent
+ORD-1431,2023-13-01,Keyboard,8,,,eu,Doris,,urgent
+ORD-1432,,Printer,,,,APAC,Charlie,,
+ORD-1433,2023-03-28,,,,,,Eve,5%,urgent
+ORD-1434,2023-12-10,,9,489.14,,LATAM,BOB,0.15,urgent
+ORD-1435,1/5/2023,Monitor,,,4023.96,,Alice,5%,
+,2023-09-11,Phone,ten,720.53,,APAC,Alice,,repeat customer
+,2023-13-01,Tablet,,652.26,528.26,LATAM,BOB,,urgent
+ORD-1438,2023-06-15,Printer,,1587.52,,US,Doris,5%,late payment
+ORD-1439,28/11/2023,Tablet,ten,,,,Alice,,
+ORD-1440,2023-13-01,,,$2107.67,,eu,Alice,0.05,late payment
+ORD-1441,2023-13-01,Headphones,,,,,Eve,,late payment
+ORD-1442,1/12/2023,,,$33.85,,,alice,0.16,
+,2023-13-01,Headphones,,973.01,,LATAM,BOB,0.0,late payment
+ORD-1444,2023-13-01,Monitor,,,,LATAM,Alice,,urgent
+ORD-1445,16/3/2023,,ten,172.75,,LATAM,,,repeat customer
+ORD-1446,2023-13-01,,,14.87,,,alice,,
+ORD-1447,2023-13-01,Headphones,,,,EU,Doris,,urgent
+ORD-1448,2023-04-06,,2,,8406.67,US,BOB,,urgent
+ORD-1449,,Phone,8,222.98,,US,Charlie,,urgent
+ORD-1450,2023-11-14,Camera,,,,EU,BOB,,
+ORD-1451,,Camera,ten,278.94,5932.94,APAC,,,
+ORD-1452,2023-08-06,Laptop,,,,APAC,Charlie,,late payment
+ORD-1453,19/11/2023,Laptop,4,$496.56,6409.14,US,Frank,,
+ORD-1454,2023-13-01,,,828.26,4964.35,LATAM,Doris,5%,repeat customer
+ORD-1455,24/7/2023,Headphones,3,913.41,5551.37,eu,BOB,,urgent
+ORD-1456,10/3/2023,Keyboard,,$622.45,,US,Alice,5%,
+ORD-1457,,Monitor,,,8785.09,US,Charlie,5%,repeat customer
+ORD-1458,,,4,,,LATAM,Alice,,repeat customer
+ORD-1459,2023-10-16,Printer,10,,,APAC,Frank,,
+ORD-1460,2023-10-13,Monitor,ten,$593.62,,APAC,Frank,0.08,repeat customer
+ORD-1461,17/6/2023,,,,,Usa,BOB,,urgent
+ORD-1462,2023-13-01,Phone,5,1966.82,,EU,,5%,late payment
+ORD-1463,2023-13-01,Monitor,ten,,,eu,Frank,,
+ORD-1464,16/11/2023,Headphones,ten,$532.59,,,BOB,0.1,late payment
+ORD-1465,23/7/2023,Printer,8,$1448.0,,EU,BOB,,late payment
+ORD-1466,2023-13-01,Mouse,10,$90.2,,,alice,,urgent
+ORD-1467,,,5,$1690.46,,,Alice,0.06,
+ORD-1468,2023-04-10,Printer,,,3917.14,APAC,,0.13,
+ORD-1469,2023-13-01,Headphones,ten,$2348.49,,,Eve,5%,
+ORD-1470,2023-13-01,,,1162.11,,Usa,Eve,5%,
+ORD-1471,,,3,$2364.76,8856.56,eu,,0.09,repeat customer
+ORD-1472,2023-13-01,Phone,,$420.45,,EU,Bob,,
+ORD-1473,2023-07-28,Laptop,5,,4852.74,US,,,repeat customer
+ORD-1474,2023-05-27,,ten,,,EU,Eve,,repeat customer
+ORD-1475,,Laptop,9,982.64,5986.07,,Doris,,repeat customer
+ORD-1476,2023-13-01,Monitor,ten,$250.54,7242.87,,,,late payment
+ORD-1477,,Headphones,ten,$897.88,,Usa,Alice,,repeat customer
+ORD-1478,2023-05-21,Phone,,760.82,,APAC,Eve,,
+ORD-1479,2023-13-01,,8,,,LATAM,,0.18,repeat customer
+,,Monitor,10,,,LATAM,Alice,,late payment
+ORD-1481,,,5,,,EU,Doris,5%,
+ORD-1482,2023-09-11,Phone,8,$139.75,9383.36,US,Charlie,5%,repeat customer
+ORD-1483,15/5/2023,Monitor,,,,LATAM,Eve,,urgent
+ORD-1484,,Printer,,,,,Bob,,
+ORD-1485,,Printer,,,728.68,,Doris,5%,urgent
+,,Headphones,,,,US,alice,0.27,
+ORD-1487,2023-13-01,Mouse,,1591.1,,LATAM,Doris,,urgent
+ORD-1488,,,,$1450.07,133.25,,alice,0.21,
+ORD-1489,2023-13-01,Keyboard,,1469.34,,Usa,Charlie,5%,
+ORD-1490,2023-01-06,Phone,,,,APAC,Charlie,5%,
+ORD-1491,27/4/2023,Monitor,ten,,,US,Charlie,0.02,
+ORD-1492,1/10/2023,Printer,8,33.67,6656.57,US,Doris,0.16,
+ORD-1493,,Mouse,,,,EU,Frank,0.26,urgent
+ORD-1494,2023-12-13,,,$1881.08,,,,5%,urgent
+ORD-1495,2023-06-01,Mouse,ten,1520.84,,US,alice,5%,repeat customer
+ORD-1496,2023-10-26,Tablet,8,,,US,BOB,5%,repeat customer
+ORD-1497,,Laptop,,$1918.11,,,Bob,,urgent
+ORD-1498,2023-06-28,,,,,,Doris,0.07,late payment
+ORD-1499,24/10/2023,Phone,,,5773.4,eu,Alice,5%,
+ORD-1500,12/11/2023,Camera,ten,,,LATAM,BOB,5%,
+ORD-1501,2023-12-22,,,,,,Doris,,urgent
+ORD-1502,27/12/2023,Monitor,ten,,,APAC,Alice,,
+ORD-1503,2023-06-25,Camera,,,,EU,Eve,5%,
+ORD-1504,10/3/2023,Monitor,4,911.94,6786.39,,alice,5%,urgent
+ORD-1505,2023-13-01,,ten,1571.16,,,Eve,5%,
+ORD-1506,,Keyboard,,38.89,,LATAM,Alice,,late payment
+ORD-1507,,Printer,,1432.84,,APAC,alice,0.24,
+ORD-1508,,Phone,9,1886.24,,APAC,Alice,,urgent
+,2023-10-07,Camera,5,,,APAC,alice,0.29,repeat customer
+ORD-1510,,Tablet,,,,LATAM,Bob,0.2,repeat customer
+,28/4/2023,,ten,,,eu,alice,5%,
+ORD-1512,14/12/2023,Camera,4,$680.81,,APAC,alice,,
+ORD-1513,2023-10-08,Camera,,,,APAC,Doris,0.08,
+ORD-1514,4/2/2023,Camera,,,,US,Alice,,repeat customer
+ORD-1515,,Printer,ten,$1719.78,6579.05,,Eve,,repeat customer
+ORD-1516,,Mouse,,$1075.14,3058.82,eu,alice,0.23,urgent
+ORD-1517,2023-04-03,Phone,,,,APAC,BOB,0.15,
+,,Camera,ten,2485.61,6077.66,LATAM,Charlie,5%,
+ORD-1519,16/7/2023,Mouse,,2285.97,,eu,Eve,,repeat customer
+ORD-1520,,,8,,2990.52,EU,Frank,5%,
+ORD-1521,2023-02-14,Camera,ten,1032.69,,eu,Doris,,late payment
+ORD-1522,2023-03-18,Printer,ten,358.29,,LATAM,Bob,0.06,repeat customer
+ORD-1523,2/3/2023,Printer,5,$1379.81,,,Charlie,0.03,urgent
+ORD-1524,1/11/2023,Laptop,,,,,Bob,5%,
+ORD-1525,2023-09-06,Keyboard,,504.05,,APAC,Doris,5%,repeat customer
+ORD-1526,9/4/2023,Headphones,ten,,,LATAM,Doris,,urgent
+ORD-1527,2023-13-01,Mouse,,1781.85,1825.7,EU,Frank,,late payment
+ORD-1528,,Mouse,,$1675.68,,Usa,,5%,late payment
+ORD-1529,2023-07-03,Laptop,ten,490.39,,Usa,Eve,5%,
+ORD-1530,2023-13-01,Camera,,,,EU,Charlie,5%,late payment
+,26/12/2023,Headphones,8,,,,Eve,0.06,repeat customer
+ORD-1532,,Camera,,,5525.99,LATAM,Alice,,urgent
+ORD-1533,9/1/2023,Monitor,9,,,eu,Charlie,,late payment
+ORD-1534,1/6/2023,Keyboard,,2429.3,,,Eve,5%,
+ORD-1535,,Tablet,ten,$1090.42,9022.66,,Charlie,5%,repeat customer
+ORD-1536,2023-12-06,Keyboard,ten,$1721.54,703.85,,Doris,,urgent
+ORD-1537,2023-03-24,Headphones,7,283.99,1330.47,eu,Charlie,0.28,urgent
+ORD-1538,2023-02-18,Monitor,,$2232.05,,APAC,Doris,,
+ORD-1539,2023-01-04,Camera,ten,$568.54,4277.08,Usa,Eve,,urgent
+ORD-1540,2023-13-01,Phone,,304.69,,APAC,Charlie,,
+ORD-1541,2023-13-01,,,,,US,Alice,5%,repeat customer
+ORD-1542,2023-07-15,Phone,,2399.37,3237.3,APAC,alice,,
+ORD-1543,2023-13-01,Tablet,,,5329.42,,Bob,,
+ORD-1544,2023-12-26,Monitor,6,,5588.16,US,Alice,,repeat customer
+ORD-1545,,Monitor,ten,$353.13,3780.83,,Frank,0.02,
+ORD-1546,6/1/2023,Mouse,3,,1505.68,,Charlie,,
+ORD-1547,2023-06-15,Keyboard,ten,$1609.71,5037.92,,alice,,
+ORD-1548,17/5/2023,Headphones,,$1308.54,,EU,Doris,0.12,
+ORD-1549,13/7/2023,Laptop,,494.88,,EU,Doris,0.08,urgent
+ORD-1550,10/4/2023,,ten,680.23,,EU,Alice,,urgent
+ORD-1551,2023-13-01,Headphones,ten,,,US,,5%,urgent
+ORD-1552,2023-13-01,Tablet,,$1568.62,,APAC,Charlie,,
+ORD-1553,,Laptop,ten,529.96,,,Bob,5%,late payment
+ORD-1554,2023-13-01,Tablet,ten,,901.4,,Eve,,
+ORD-1555,2023-03-04,Mouse,,$1553.01,,Usa,Frank,,
+ORD-1556,2023-11-02,Monitor,9,,,US,Doris,,urgent
+ORD-1557,2023-08-21,Phone,3,,,US,Frank,,repeat customer
+ORD-1558,2023-08-04,Camera,,372.33,,EU,Frank,,repeat customer
+ORD-1559,2023-13-01,Keyboard,3,362.93,,,alice,,repeat customer
+ORD-1560,11/5/2023,Monitor,,$1343.41,,Usa,alice,5%,urgent
+ORD-1561,2023-13-01,Laptop,,,,,Eve,0.16,
+ORD-1562,2023-03-21,Laptop,ten,$1369.75,6013.42,Usa,Doris,0.29,late payment
+ORD-1563,2023-01-10,Printer,,,,US,Charlie,,repeat customer
+ORD-1564,2023-13-01,,,1758.21,9953.68,US,Alice,,urgent
+ORD-1565,,Camera,10,$2130.75,,,Bob,,urgent
+ORD-1566,,Laptop,ten,,,LATAM,Alice,,urgent
+,2023-13-01,Mouse,,$2433.99,,EU,alice,,repeat customer
+ORD-1568,6/7/2023,Phone,3,,8375.01,Usa,Doris,0.03,
+,2023-10-05,,7,,,APAC,Doris,5%,late payment
+ORD-1570,2023-13-01,,,216.58,,US,Bob,0.14,urgent
+ORD-1571,,Mouse,,,,US,Doris,,late payment
+ORD-1572,2023-13-01,Laptop,3,,,EU,Charlie,,urgent
+ORD-1573,1/9/2023,Monitor,6,$83.45,,APAC,Eve,5%,urgent
+ORD-1574,,Headphones,,$632.73,,eu,alice,,repeat customer
+ORD-1575,,,,,,Usa,Bob,0.13,
+ORD-1576,2023-13-01,Headphones,1,$813.48,3583.87,LATAM,Frank,,urgent
+,23/6/2023,Printer,,,2843.31,LATAM,Bob,0.17,
+ORD-1578,2023-13-01,Mouse,ten,133.65,,US,Bob,,
+ORD-1579,2023-10-01,Printer,ten,2105.69,3380.52,US,BOB,,late payment
+ORD-1580,2023-13-01,Printer,10,,,US,Frank,0.28,urgent
+ORD-1581,,Monitor,3,,,EU,Alice,0.08,urgent
+,,Keyboard,ten,,,,BOB,5%,
+ORD-1583,,Monitor,,,5589.57,LATAM,Bob,,urgent
+ORD-1584,15/7/2023,Printer,,,,,Charlie,0.25,repeat customer
+ORD-1585,15/10/2023,Headphones,4,,,US,Charlie,0.14,urgent
+ORD-1586,,,,886.37,3550.72,APAC,alice,,urgent
+ORD-1587,,Headphones,,,,,Bob,5%,urgent
+ORD-1588,19/5/2023,Phone,9,,3925.16,LATAM,Eve,5%,repeat customer
+ORD-1589,2023-05-23,Phone,,$2132.88,,US,Charlie,,repeat customer
+ORD-1590,2023-11-16,Tablet,5,435.11,,EU,BOB,,urgent
+,22/5/2023,Camera,ten,1889.93,,Usa,BOB,,
+ORD-1592,2023-08-09,Mouse,,,,EU,Charlie,5%,repeat customer
+ORD-1593,,Mouse,4,492.67,,,,,late payment
+ORD-1594,2023-07-09,,,,,eu,Bob,,repeat customer
+ORD-1595,10/10/2023,Keyboard,,,,US,Alice,0.15,
+ORD-1596,2023-13-01,Keyboard,ten,$1785.86,9959.18,,Bob,0.09,
+ORD-1597,,Headphones,7,,,Usa,Charlie,5%,late payment
+ORD-1598,2023-09-07,Keyboard,,,,,Frank,,
+ORD-1599,2023-08-14,Camera,,,,Usa,Charlie,,urgent
+ORD-1600,2023-07-05,Printer,,,,US,Frank,,
+ORD-1601,2023-06-28,Monitor,ten,$2418.52,,APAC,Eve,0.19,
+ORD-1602,3/1/2023,,2,625.54,,,Alice,,
+ORD-1603,2023-13-01,,8,$1594.13,,LATAM,Charlie,5%,
+ORD-1604,,Mouse,,,,APAC,Alice,0.09,
+ORD-1605,,Laptop,ten,,101.11,Usa,,5%,late payment
+ORD-1606,17/2/2023,,,,7154.67,eu,Eve,0.28,
+ORD-1607,2023-13-01,Tablet,,1465.39,,APAC,Doris,0.03,
+ORD-1608,25/4/2023,Phone,,1891.98,,US,Alice,0.25,
+ORD-1609,27/1/2023,Mouse,,$2472.29,,,Eve,5%,
+ORD-1610,2023-04-03,Monitor,ten,,5687.27,Usa,Charlie,,repeat customer
+ORD-1611,2023-13-01,Mouse,ten,,,US,Charlie,,urgent
+ORD-1612,2023-13-01,Laptop,,,688.85,eu,Bob,5%,
+ORD-1613,2023-09-10,Camera,,2342.95,,eu,Doris,0.1,repeat customer
+ORD-1614,2023-12-11,Monitor,8,2016.1,3465.0,,Bob,,repeat customer
+ORD-1615,2/8/2023,,,$1956.04,224.22,EU,Doris,,urgent
+ORD-1616,25/7/2023,Headphones,ten,,,,Alice,0.07,
+,2023-07-24,Laptop,4,$325.52,,Usa,Doris,5%,
+ORD-1618,2023-11-04,Keyboard,ten,,8977.43,,Eve,,repeat customer
+ORD-1619,2023-05-11,Laptop,,,793.68,LATAM,Eve,5%,urgent
+ORD-1620,,,8,,,eu,Bob,,
+,15/1/2023,Monitor,ten,,,EU,Frank,,
+ORD-1622,,Headphones,1,,,,alice,,repeat customer
+ORD-1623,2023-08-24,Keyboard,5,,,EU,Eve,,
+,2023-13-01,Tablet,,52.99,,LATAM,alice,0.02,late payment
+ORD-1625,3/8/2023,Keyboard,,$326.78,,EU,Doris,0.03,repeat customer
+ORD-1626,11/1/2023,Laptop,,,5409.01,LATAM,Frank,,urgent
+ORD-1627,2023-13-01,,7,$2190.87,,Usa,Frank,,
+ORD-1628,2023-13-01,Laptop,ten,$73.58,,Usa,Doris,0.11,repeat customer
+ORD-1629,,Camera,2,,3176.22,eu,Doris,,repeat customer
+ORD-1630,,Headphones,6,,,LATAM,BOB,5%,
+ORD-1631,8/7/2023,,,,4216.02,,Doris,,urgent
+ORD-1632,,Phone,3,$69.59,9899.44,,alice,,
+ORD-1633,2023-05-04,Laptop,,,,eu,BOB,5%,
+ORD-1634,2023-13-01,,,,9448.23,LATAM,Eve,0.15,
+ORD-1635,2023-13-01,Mouse,,1895.68,,LATAM,alice,,urgent
+ORD-1636,,Printer,ten,728.31,,eu,Charlie,5%,urgent
+ORD-1637,2023-01-18,Printer,,,,APAC,BOB,0.09,urgent
+ORD-1638,9/2/2023,Keyboard,,$1863.25,,APAC,,,
+ORD-1639,2023-02-23,Headphones,,484.09,,EU,Doris,,repeat customer
+ORD-1640,5/8/2023,Printer,ten,$2190.9,41.95,,,5%,urgent
+ORD-1641,13/11/2023,,,,,,BOB,,
+ORD-1642,2023-08-10,Keyboard,,820.24,,US,Frank,5%,
+ORD-1643,14/11/2023,Laptop,,,,eu,Frank,,
+ORD-1644,16/12/2023,Mouse,,$561.06,,US,Frank,0.04,urgent
+ORD-1645,2023-13-01,Camera,2,$911.62,,,Doris,5%,late payment
+ORD-1646,2023-04-18,Laptop,1,1258.73,,EU,Doris,5%,urgent
+ORD-1647,,Tablet,5,,,APAC,Bob,,repeat customer
+ORD-1648,2023-05-26,Keyboard,,,,US,Doris,,
+ORD-1649,,Laptop,,2379.13,,EU,alice,,late payment
+ORD-1650,10/6/2023,,2,,5938.16,APAC,alice,,
+ORD-1651,,Keyboard,,1853.87,,,Alice,5%,
+ORD-1652,11/11/2023,Mouse,,1290.93,,US,alice,0.04,repeat customer
+ORD-1653,2023-02-06,Laptop,,,,,alice,0.0,
+ORD-1654,2023-13-01,,ten,$1312.9,,Usa,,,
+ORD-1655,24/3/2023,Camera,8,,679.81,eu,Doris,0.06,
+ORD-1656,20/8/2023,Phone,ten,$45.18,,eu,Frank,,late payment
+ORD-1657,7/2/2023,Phone,,$1413.51,,,Frank,,
+ORD-1658,6/1/2023,Monitor,ten,366.9,3240.15,APAC,,,
+ORD-1659,,Headphones,,,,LATAM,Charlie,,repeat customer
+ORD-1660,2023-13-01,,,,,Usa,alice,5%,
+ORD-1661,2023-13-01,Camera,4,,,EU,Eve,,
+ORD-1662,2023-12-23,,,,,US,Alice,5%,repeat customer
+ORD-1663,2023-03-03,Printer,,$1364.77,,EU,Frank,,repeat customer
+ORD-1664,2023-10-24,,,2095.91,,APAC,Eve,,urgent
+ORD-1665,17/7/2023,,,,,US,BOB,0.03,repeat customer
+ORD-1666,2023-03-11,Tablet,ten,$1156.27,,LATAM,Charlie,,late payment
+ORD-1667,11/7/2023,Monitor,ten,,,Usa,Frank,,repeat customer
+,5/9/2023,Headphones,,,916.67,eu,Doris,0.14,urgent
+ORD-1669,,,,1413.79,3230.5,Usa,Alice,,late payment
+ORD-1670,12/5/2023,Printer,ten,,,,alice,5%,late payment
+ORD-1671,,Keyboard,ten,1910.3,,,Alice,5%,late payment
+ORD-1672,7/10/2023,Tablet,6,$780.09,,,Charlie,5%,repeat customer
+ORD-1673,3/3/2023,Monitor,7,,59.4,Usa,Bob,,repeat customer
+ORD-1674,27/8/2023,Phone,ten,,,,alice,,
+ORD-1675,8/10/2023,Monitor,,,,LATAM,Charlie,0.15,repeat customer
+ORD-1676,13/11/2023,Headphones,,,,APAC,Charlie,0.12,
+ORD-1677,,Laptop,,,,,alice,,
+ORD-1678,2023-13-01,Printer,,,,US,Charlie,,repeat customer
+ORD-1679,,Laptop,,,,Usa,Eve,,urgent
+ORD-1680,2023-03-10,Printer,,,,,Doris,0.05,repeat customer
+ORD-1681,2023-13-01,Printer,ten,,,Usa,Alice,0.04,
+ORD-1682,2023-13-01,Headphones,7,467.99,,US,Doris,,
+ORD-1683,2023-13-01,,ten,$1097.99,,EU,alice,,late payment
+,26/7/2023,Keyboard,,,980.51,EU,Frank,,
+ORD-1685,2023-13-01,Camera,,,,APAC,BOB,,repeat customer
+ORD-1686,,Laptop,10,,,Usa,Eve,,
+ORD-1687,20/10/2023,,,,,LATAM,alice,5%,
+ORD-1688,13/4/2023,Phone,,,,LATAM,alice,,late payment
+ORD-1689,2023-13-01,Camera,,,,APAC,Charlie,0.12,
+ORD-1690,2023-08-21,Headphones,,2435.88,6192.57,US,alice,,
+ORD-1691,2023-10-21,Mouse,,$2159.96,,LATAM,Charlie,5%,late payment
+ORD-1692,,Printer,,,5007.15,Usa,Charlie,0.07,urgent
+ORD-1693,,Headphones,,2394.36,,EU,BOB,0.14,late payment
+ORD-1694,,Camera,,,,US,Charlie,,repeat customer
+ORD-1695,2023-13-01,,,$1234.03,,eu,BOB,,late payment
+ORD-1696,25/3/2023,Camera,5,,,APAC,Eve,,late payment
+ORD-1697,2023-13-01,Headphones,ten,,1492.15,eu,Frank,,
+ORD-1698,2023-13-01,Camera,,$1218.26,,APAC,BOB,0.27,urgent
+ORD-1699,2023-13-01,,ten,897.69,,LATAM,Doris,0.11,
+ORD-1700,2023-06-17,Laptop,ten,$1995.2,,LATAM,Doris,,repeat customer
+,2023-10-09,Monitor,ten,$161.55,,,BOB,0.03,late payment
+ORD-1702,,Phone,ten,,3006.61,,Bob,,repeat customer
+ORD-1703,2023-11-20,Keyboard,,,,eu,Eve,5%,late payment
+ORD-1704,,Phone,,,4962.92,US,alice,0.2,
+ORD-1705,27/3/2023,Phone,ten,,,LATAM,Charlie,5%,
+ORD-1706,2023-13-01,Camera,,,,Usa,Charlie,,late payment
+ORD-1707,2023-07-19,Headphones,,,7672.82,LATAM,Doris,,late payment
+ORD-1708,2023-13-01,Camera,ten,,8565.47,US,Doris,,
+ORD-1709,,Monitor,,,,,Eve,5%,urgent
+ORD-1710,27/3/2023,,ten,,,eu,,,urgent
+ORD-1711,2023-13-01,Mouse,ten,,3628.42,eu,Eve,0.18,repeat customer
+ORD-1712,2023-07-14,Camera,,50.34,,,Eve,0.17,urgent
+ORD-1713,4/9/2023,Camera,,1528.98,,eu,BOB,5%,late payment
+ORD-1714,,Laptop,,25.82,,,Charlie,5%,
+ORD-1715,15/11/2023,,ten,,1824.05,EU,Charlie,0.16,late payment
+ORD-1716,2023-13-01,Tablet,,,,US,alice,5%,
+,,,2,2423.42,1637.2,US,BOB,,late payment
+ORD-1718,2023-13-01,Printer,5,,,US,Frank,,urgent
+ORD-1719,2023-11-10,,,,463.24,APAC,Alice,5%,repeat customer
+ORD-1720,2023-13-01,Mouse,,$1053.91,9363.55,APAC,Frank,0.26,repeat customer
+,2023-13-01,Keyboard,,80.91,8889.32,APAC,alice,,
+ORD-1722,2023-13-01,Monitor,,,,,Charlie,0.26,late payment
+ORD-1723,2023-13-01,,,$2079.41,,APAC,Charlie,0.07,urgent
+ORD-1724,4/4/2023,Keyboard,,,7601.34,Usa,alice,5%,
+ORD-1725,2023-01-24,Monitor,3,$94.94,,EU,BOB,,repeat customer
+ORD-1726,,,,,3379.17,eu,Frank,,
+ORD-1727,2023-13-01,Phone,,$2412.24,,US,Bob,,repeat customer
+ORD-1728,2023-05-15,Camera,,$2215.2,,LATAM,Alice,,
+ORD-1729,2023-03-19,Camera,ten,$2492.97,3750.98,APAC,Doris,5%,
+ORD-1730,2023-13-01,Laptop,,,,Usa,Charlie,,urgent
+ORD-1731,22/5/2023,,10,$1031.84,4814.51,LATAM,alice,,
+ORD-1732,12/2/2023,Keyboard,,$1851.74,2066.25,eu,Frank,0.0,
+ORD-1733,,Monitor,,,,Usa,Eve,0.28,
+ORD-1734,,,,1898.56,,Usa,Doris,,
+ORD-1735,2023-13-01,Keyboard,,,840.1,,Doris,5%,
+ORD-1736,,Camera,,,430.59,US,Bob,5%,late payment
+ORD-1737,2023-12-20,Mouse,,,,,Alice,5%,urgent
+ORD-1738,2023-06-04,Printer,,$866.68,2773.56,Usa,BOB,,repeat customer
+ORD-1739,,Mouse,,$841.07,,US,Bob,,
+ORD-1740,2023-13-01,Printer,,$2240.49,,EU,Bob,,
+ORD-1741,25/9/2023,Headphones,10,,8523.57,Usa,,5%,
+ORD-1742,2023-12-27,Mouse,,$622.3,,EU,BOB,5%,repeat customer
+ORD-1743,26/4/2023,Laptop,ten,,,LATAM,alice,,
+ORD-1744,2023-13-01,Keyboard,,$2314.51,,US,Charlie,5%,
+ORD-1745,,Camera,6,,,LATAM,BOB,0.08,
+ORD-1746,14/2/2023,Laptop,,,,APAC,Bob,0.2,late payment
+ORD-1747,,Headphones,,,,,Charlie,,urgent
+ORD-1748,2023-01-23,Phone,10,$1828.65,,APAC,Charlie,,urgent
+ORD-1749,,Headphones,,354.89,3118.84,,Eve,5%,late payment
+ORD-1750,2023-04-12,Mouse,8,1314.43,9820.28,Usa,Bob,0.05,urgent
+ORD-1751,2023-13-01,Phone,ten,$1250.52,9757.99,APAC,Frank,,repeat customer
+ORD-1752,2023-08-01,Keyboard,5,$459.24,,LATAM,Charlie,,
+ORD-1753,2023-09-27,,9,$920.58,,LATAM,alice,0.01,
+ORD-1754,2023-11-23,Camera,,,,LATAM,Eve,,repeat customer
+ORD-1755,,Phone,8,,,,Eve,0.23,
+ORD-1756,10/10/2023,,6,,,EU,alice,5%,
+ORD-1757,,Tablet,,$516.98,,EU,Alice,5%,urgent
+ORD-1758,22/6/2023,Headphones,,$1010.88,1425.28,eu,alice,,repeat customer
+ORD-1759,2023-11-24,Headphones,,,2541.72,,Alice,,repeat customer
+ORD-1760,2023-04-03,Tablet,8,,,,Eve,,
+ORD-1761,2023-02-13,Camera,ten,,4793.41,LATAM,Alice,5%,urgent
+ORD-1762,2023-13-01,Printer,,$112.22,,Usa,Alice,5%,late payment
+ORD-1763,12/8/2023,,,956.29,,LATAM,Frank,,urgent
+ORD-1764,2023-13-01,Camera,ten,1372.34,,EU,Charlie,,late payment
+,,Laptop,10,2036.13,,EU,,,
+ORD-1766,,Monitor,,,4796.5,,,5%,repeat customer
+ORD-1767,13/5/2023,Mouse,,,,LATAM,alice,,repeat customer
+ORD-1768,,Printer,,,,LATAM,Doris,5%,
+ORD-1769,2023-13-01,Printer,,,1421.9,,Eve,,urgent
+ORD-1770,,Camera,ten,$69.35,,APAC,Eve,5%,
+ORD-1771,,Monitor,,797.37,6765.13,US,Alice,0.0,late payment
+ORD-1772,7/12/2023,Monitor,5,,,APAC,Eve,5%,repeat customer
+ORD-1773,20/7/2023,Camera,,$710.27,,APAC,BOB,0.03,repeat customer
+ORD-1774,2023-08-13,,,1466.38,,Usa,Frank,,urgent
+ORD-1775,22/7/2023,Phone,,737.95,,EU,alice,,late payment
+ORD-1776,2023-13-01,Tablet,ten,,,,Bob,0.1,repeat customer
+ORD-1777,2023-10-01,Keyboard,ten,2262.29,,,Frank,,
+ORD-1778,24/5/2023,Printer,,217.43,,US,Alice,0.24,repeat customer
+ORD-1779,5/10/2023,Phone,2,,,US,Charlie,,late payment
+ORD-1780,4/1/2023,Monitor,ten,238.34,,LATAM,Doris,0.01,
+ORD-1781,,,,727.28,,EU,Bob,5%,late payment
+ORD-1782,2023-09-19,Phone,ten,$1893.15,,eu,alice,,repeat customer
+ORD-1783,2023-06-24,,,1888.2,,EU,alice,,urgent
+ORD-1784,2023-13-01,,10,,,,Frank,,late payment
+ORD-1785,8/10/2023,Laptop,,,,,Charlie,,
+ORD-1786,11/7/2023,Headphones,6,$2045.34,1518.88,LATAM,Bob,,repeat customer
+ORD-1787,16/7/2023,Keyboard,,,4334.23,,Alice,0.11,urgent
+ORD-1788,20/5/2023,Monitor,,2011.02,,APAC,Frank,,
+ORD-1789,2023-13-01,Tablet,,,,LATAM,Frank,,late payment
+ORD-1790,11/12/2023,Tablet,ten,$1527.37,,EU,Frank,0.15,
+ORD-1791,,Printer,,$980.05,,APAC,Frank,0.25,
+ORD-1792,,Camera,,,,LATAM,Doris,0.29,late payment
+ORD-1793,2023-13-01,Monitor,,,2617.27,eu,Alice,,urgent
+ORD-1794,21/7/2023,,,,,,Eve,5%,late payment
+ORD-1795,,Mouse,,2081.19,,Usa,alice,0.05,late payment
+ORD-1796,17/1/2023,Printer,2,$264.61,9401.83,US,Frank,,urgent
+ORD-1797,2023-02-16,Camera,,1739.52,,APAC,Bob,,repeat customer
+ORD-1798,2023-11-22,,,$555.31,9500.16,Usa,Frank,,urgent
+ORD-1799,,Camera,2,$99.65,5831.56,Usa,Bob,,
+ORD-1800,2023-03-13,,,,1607.03,eu,Frank,,
+ORD-1801,,Monitor,3,$2013.54,,eu,Doris,,late payment
+ORD-1802,2023-13-01,Monitor,9,$548.89,8604.98,,alice,,
+ORD-1803,2023-13-01,,4,1544.76,6196.57,eu,Alice,,
+ORD-1804,12/4/2023,Headphones,6,,7706.73,eu,Charlie,5%,urgent
+ORD-1805,,Tablet,1,,,,Bob,5%,repeat customer
+ORD-1806,,Headphones,,445.81,,eu,BOB,,urgent
+ORD-1807,2023-04-08,,,$1760.34,,EU,Eve,,
+ORD-1808,2023-13-01,Camera,ten,,,Usa,BOB,,repeat customer
+ORD-1809,2023-13-01,Headphones,,,,APAC,Alice,5%,
+ORD-1810,24/3/2023,Monitor,7,2060.37,,EU,Eve,5%,repeat customer
+ORD-1811,2023-13-01,Camera,,,6881.13,LATAM,BOB,5%,urgent
+ORD-1812,4/8/2023,Phone,ten,$764.12,5424.25,LATAM,Alice,,urgent
+ORD-1813,,Phone,,,,LATAM,Eve,,
+ORD-1814,2023-13-01,Mouse,,,7531.65,,Frank,,urgent
+ORD-1815,2023-13-01,Camera,2,621.02,,Usa,Doris,,urgent
+ORD-1816,23/8/2023,,7,35.63,,US,,,
+ORD-1817,2023-13-01,,,$1134.8,,Usa,alice,5%,urgent
+ORD-1818,1/7/2023,Headphones,,,,US,Bob,5%,
+ORD-1819,,Laptop,,,,,Bob,,late payment
+ORD-1820,2023-09-08,Tablet,ten,,,US,Charlie,0.17,
+,,Laptop,6,,5859.87,eu,Charlie,5%,
+ORD-1822,,Monitor,ten,975.77,1469.66,APAC,Bob,0.14,
+ORD-1823,2023-13-01,Monitor,,,7808.51,LATAM,Frank,5%,repeat customer
+ORD-1824,21/11/2023,Monitor,,1247.86,,US,Charlie,0.23,late payment
+ORD-1825,2023-13-01,Camera,,,,APAC,BOB,,late payment
+ORD-1826,2023-13-01,Keyboard,ten,$2265.47,,eu,Doris,,late payment
+ORD-1827,22/4/2023,Keyboard,,$1386.73,,APAC,Bob,,repeat customer
+ORD-1828,,Mouse,,,5378.71,eu,Bob,,
+ORD-1829,,Printer,,,,,Bob,,late payment
+ORD-1830,2023-03-04,Phone,5,1375.74,,,Doris,0.01,urgent
+ORD-1831,,Monitor,ten,,,LATAM,Charlie,,repeat customer
+ORD-1832,2023-07-07,Tablet,,$320.16,8455.37,LATAM,BOB,5%,repeat customer
+ORD-1833,,,,1120.95,,,Charlie,,
+ORD-1834,25/5/2023,,,,,,BOB,,repeat customer
+ORD-1835,,Tablet,ten,,,LATAM,alice,,urgent
+ORD-1836,2023-10-08,Printer,,1433.42,,,alice,,late payment
+ORD-1837,16/3/2023,Monitor,ten,,489.31,US,Charlie,0.03,late payment
+ORD-1838,5/5/2023,Headphones,ten,580.43,2325.84,EU,Charlie,,
+ORD-1839,2023-04-01,Phone,,2045.05,,Usa,Charlie,5%,repeat customer
+ORD-1840,2023-06-28,Camera,9,,1567.54,LATAM,Frank,,
+ORD-1841,4/12/2023,Tablet,10,177.01,,,alice,,
+ORD-1842,,Keyboard,,$2146.24,8050.34,US,Frank,0.25,
+ORD-1843,2023-07-13,Mouse,ten,$546.77,,APAC,Eve,5%,urgent
+ORD-1844,,Printer,ten,1163.62,2461.21,US,Eve,,
+ORD-1845,2023-13-01,Mouse,,,,LATAM,Eve,5%,urgent
+ORD-1846,2023-13-01,Laptop,ten,,,,Frank,,late payment
+ORD-1847,,Headphones,9,1669.14,9986.46,,Frank,,late payment
+ORD-1848,2023-13-01,Headphones,4,$40.17,,LATAM,alice,5%,
+ORD-1849,1/2/2023,Laptop,,$555.55,,US,Bob,,
+ORD-1850,2023-13-01,,ten,,8063.83,LATAM,Alice,,late payment
+ORD-1851,2023-05-16,,,$378.45,8446.44,LATAM,BOB,0.27,
+ORD-1852,2023-13-01,Keyboard,ten,414.49,7751.91,,alice,5%,
+ORD-1853,2023-13-01,Monitor,,$996.9,4059.12,eu,Doris,5%,late payment
+ORD-1854,2023-06-19,Phone,2,383.62,,APAC,Alice,5%,urgent
+ORD-1855,2023-13-01,,10,,,US,Alice,5%,repeat customer
+ORD-1856,2023-13-01,,9,2081.19,,APAC,,5%,late payment
+,,Printer,,,4185.52,eu,Frank,,repeat customer
+ORD-1858,2023-01-03,Tablet,,,,Usa,Doris,,
+ORD-1859,2023-13-01,Monitor,8,,669.89,eu,alice,,
+ORD-1860,,Tablet,,$2395.58,84.31,eu,alice,,repeat customer
+,,Keyboard,ten,,,Usa,Frank,,
+ORD-1862,2023-13-01,Camera,ten,1092.99,,eu,,,urgent
+ORD-1863,2023-01-14,Printer,,$1525.81,,LATAM,BOB,0.08,repeat customer
+ORD-1864,2023-10-09,Camera,4,$2055.55,,EU,Bob,,
+ORD-1865,2023-13-01,,,,7798.95,,,5%,
+ORD-1866,2023-13-01,,,,,eu,alice,,repeat customer
+ORD-1867,2023-13-01,Camera,9,199.8,8531.77,LATAM,Bob,,repeat customer
+ORD-1868,,Camera,,1673.32,3569.03,Usa,Charlie,5%,
+ORD-1869,2023-12-01,Tablet,,$2039.89,,Usa,Alice,,
+ORD-1870,26/7/2023,Tablet,,1935.92,,LATAM,BOB,,
+ORD-1871,,Monitor,,,,EU,Frank,0.26,repeat customer
+ORD-1872,18/2/2023,Printer,,,,,Eve,0.01,urgent
+ORD-1873,,Tablet,,,,eu,alice,,late payment
+ORD-1874,2023-02-28,Mouse,2,,8885.2,LATAM,Bob,,late payment
+ORD-1875,2023-13-01,Camera,5,2239.36,,US,Frank,0.08,repeat customer
+ORD-1876,2023-10-01,Printer,,$668.06,829.27,APAC,Bob,0.19,
+ORD-1877,6/12/2023,Headphones,,$1827.33,4931.6,EU,alice,,repeat customer
+ORD-1878,,,,630.09,,,Alice,,
+ORD-1879,5/10/2023,,10,2418.26,2316.25,EU,Bob,5%,repeat customer
+ORD-1880,1/11/2023,Phone,,$523.77,,US,Frank,,
+ORD-1881,15/11/2023,,ten,$478.12,,,Alice,,
+ORD-1882,2023-13-01,Monitor,7,,1778.83,,,,late payment
+ORD-1883,2023-13-01,Printer,,$559.21,181.29,,alice,5%,urgent
+ORD-1884,2023-06-17,Keyboard,,1868.54,,eu,Doris,5%,
+ORD-1885,,,6,,,eu,Eve,,
+ORD-1886,13/8/2023,Monitor,6,$898.63,,LATAM,alice,0.29,urgent
+ORD-1887,14/1/2023,Printer,7,,7187.13,LATAM,Doris,0.11,late payment
+,,Monitor,,2309.68,,LATAM,Alice,,
+ORD-1889,1/8/2023,Headphones,6,,,Usa,Frank,5%,urgent
+ORD-1890,2023-13-01,Monitor,ten,$122.56,1966.6,LATAM,Charlie,0.09,
+ORD-1891,4/12/2023,Mouse,,$167.54,4742.56,APAC,Frank,5%,
+ORD-1892,,Phone,ten,,8865.02,LATAM,BOB,,late payment
+ORD-1893,24/1/2023,Headphones,,1933.67,8748.5,APAC,Alice,0.07,
+ORD-1894,23/12/2023,Laptop,ten,$587.18,2412.42,US,Doris,0.16,late payment
+ORD-1895,9/6/2023,Tablet,,$2096.37,8030.67,US,,,urgent
+ORD-1896,2023-13-01,Printer,,2481.95,7657.14,EU,Alice,5%,
+ORD-1897,,Camera,6,1970.79,,Usa,alice,,late payment
+ORD-1898,,Keyboard,8,,5019.14,Usa,alice,,
+,2023-13-01,Monitor,,,,,Bob,5%,late payment
+ORD-1900,2023-13-01,Keyboard,,1826.7,6253.92,,Doris,,
+ORD-1901,20/11/2023,Tablet,2,676.85,,US,,0.27,late payment
+ORD-1902,,Printer,ten,951.44,4003.09,APAC,Bob,,
+ORD-1903,2023-13-01,Headphones,ten,$2199.82,,,Doris,,urgent
+ORD-1904,,Tablet,,1896.57,1874.02,Usa,Frank,5%,late payment
+ORD-1905,,Headphones,,1982.31,,US,Frank,5%,late payment
+ORD-1906,2023-03-15,,6,,2395.78,LATAM,Frank,,
+ORD-1907,13/12/2023,Tablet,2,,7215.3,EU,Doris,0.07,repeat customer
+ORD-1908,21/6/2023,Laptop,7,,,,Bob,,
+ORD-1909,1/3/2023,Laptop,1,$1043.41,,EU,Doris,,
+ORD-1910,2023-08-09,Headphones,ten,,1347.92,US,Eve,0.18,
+ORD-1911,2023-13-01,Monitor,,1329.42,,LATAM,Charlie,5%,repeat customer
+ORD-1912,,Keyboard,,1051.49,,eu,Charlie,,urgent
+ORD-1913,25/6/2023,Printer,,1094.07,5198.2,US,Charlie,0.13,urgent
+ORD-1914,,Headphones,10,,,US,Frank,5%,urgent
+ORD-1915,2023-04-09,Headphones,ten,,,APAC,Doris,,late payment
+ORD-1916,2023-01-04,Camera,ten,$601.19,4080.5,LATAM,Frank,0.18,urgent
+ORD-1917,2023-06-15,,,2483.04,,APAC,Alice,,late payment
+ORD-1918,,,,,,eu,Charlie,,
+ORD-1919,2023-10-08,Keyboard,,$1982.82,9533.35,US,Charlie,5%,late payment
+ORD-1920,2023-07-13,Headphones,10,,,,Alice,5%,repeat customer
+ORD-1921,17/10/2023,Mouse,,$2247.32,,EU,Eve,,
+ORD-1922,,Mouse,ten,$1910.13,,US,,,late payment
+ORD-1923,,Headphones,ten,,5719.36,eu,Doris,,
+ORD-1924,2023-13-01,,1,$418.97,,,alice,,urgent
+ORD-1925,25/7/2023,Phone,ten,2037.64,488.68,,,,urgent
+ORD-1926,2023-13-01,Laptop,,$2158.62,,,Charlie,,repeat customer
+ORD-1927,,,,,,,alice,5%,late payment
+,,Headphones,ten,1417.9,,EU,alice,,urgent
+ORD-1929,2023-04-07,Tablet,,,,US,BOB,0.16,
+,4/2/2023,Laptop,7,,,Usa,alice,5%,
+ORD-1931,2023-13-01,,ten,$814.33,,EU,Bob,,urgent
+ORD-1932,,Printer,9,,6676.09,APAC,Bob,5%,urgent
+ORD-1933,2023-10-18,,,$2434.46,,,BOB,,repeat customer
+ORD-1934,4/9/2023,Camera,,,9598.08,,,,
+ORD-1935,2023-02-15,Headphones,ten,$1300.51,8602.41,Usa,Alice,5%,urgent
+ORD-1936,2023-13-01,Mouse,3,,,,Bob,,
+ORD-1937,2023-02-17,,,1423.99,,eu,Doris,,
+ORD-1938,2023-03-05,,,,,APAC,Eve,,
+ORD-1939,2023-13-01,Mouse,,2406.45,,US,Frank,5%,
+ORD-1940,7/9/2023,Laptop,,694.5,,,BOB,,
+ORD-1941,,Tablet,,1295.13,,Usa,,5%,repeat customer
+ORD-1942,2023-13-01,Headphones,,1717.17,6733.38,eu,,,late payment
+ORD-1943,,Monitor,,$1532.35,,APAC,,,
+ORD-1944,2023-04-28,Mouse,ten,,,,Charlie,,
+ORD-1945,13/10/2023,Monitor,,264.53,,Usa,Frank,,
+ORD-1946,2023-07-28,,,,2249.83,eu,Bob,0.26,urgent
+ORD-1947,6/1/2023,Camera,ten,,,US,Frank,0.09,late payment
+ORD-1948,7/12/2023,Mouse,ten,2045.67,,,Frank,,repeat customer
+ORD-1949,2023-11-26,Laptop,ten,1147.02,,,,5%,
+,2023-13-01,Headphones,ten,,,,BOB,,late payment
+ORD-1951,2023-13-01,,,,,eu,Charlie,,
+ORD-1952,2023-13-01,Laptop,3,,3731.31,LATAM,Bob,5%,urgent
+ORD-1953,2023-13-01,Mouse,8,,5559.91,US,Eve,,
+ORD-1954,5/8/2023,Headphones,,,1505.55,APAC,Frank,5%,late payment
+ORD-1955,2023-02-17,Tablet,4,324.48,,US,Alice,0.11,urgent
+ORD-1956,16/3/2023,Camera,,,,US,BOB,5%,late payment
+ORD-1957,2023-13-01,Printer,,395.34,,US,,,
+ORD-1958,,Laptop,ten,,,LATAM,Doris,5%,
+ORD-1959,1/6/2023,Tablet,ten,1855.08,,US,Eve,5%,repeat customer
+ORD-1960,12/12/2023,,ten,,,,BOB,,late payment
+ORD-1961,2023-13-01,,8,,,APAC,BOB,0.02,late payment
+ORD-1962,,Phone,,$2045.58,,LATAM,Charlie,0.04,repeat customer
+ORD-1963,2023-07-24,Camera,ten,,,,,,late payment
+ORD-1964,2023-13-01,,,,9243.78,LATAM,Alice,,repeat customer
+ORD-1965,2023-13-01,Phone,8,$2180.84,,US,Alice,5%,
+ORD-1966,3/5/2023,Printer,ten,151.15,,US,Doris,,urgent
+ORD-1967,13/1/2023,Tablet,ten,,,APAC,Alice,0.03,urgent
+ORD-1968,2023-07-04,Phone,10,,9324.7,LATAM,Alice,5%,
+ORD-1969,1/11/2023,Printer,5,$1964.65,,EU,,5%,late payment
+ORD-1970,11/3/2023,,,$2101.58,,Usa,alice,0.25,urgent
+ORD-1971,2023-13-01,Tablet,,$1943.14,9689.17,APAC,Eve,,
+ORD-1972,10/3/2023,Laptop,5,2221.37,,EU,alice,5%,
+ORD-1973,2023-08-09,Printer,,,2289.73,eu,,0.2,late payment
+ORD-1974,2023-03-27,Monitor,5,,,,BOB,,
+ORD-1975,2023-13-01,Keyboard,ten,2364.97,,,alice,0.0,
+ORD-1976,2023-02-26,Laptop,4,,5542.9,,alice,0.08,
+ORD-1977,2023-09-02,,,277.43,,EU,BOB,0.03,
+ORD-1978,15/12/2023,Mouse,2,,4925.41,,Charlie,5%,urgent
+,2023-13-01,Printer,,$1245.47,1213.76,Usa,Doris,5%,
+ORD-1980,,Headphones,3,$169.55,,,Alice,,
+ORD-1981,2023-02-10,Phone,2,,,EU,Alice,,
+ORD-1982,2023-13-01,,,630.73,3173.49,EU,Eve,0.18,
+ORD-1983,,,4,504.67,,eu,Bob,,urgent
+ORD-1984,,,ten,,4374.57,eu,Bob,,urgent
+ORD-1985,14/11/2023,Laptop,,$1157.25,,EU,Charlie,0.2,late payment
+ORD-1986,2023-13-01,,,2253.07,9760.35,eu,,0.01,
+ORD-1987,18/3/2023,Phone,,$1846.24,,Usa,BOB,5%,urgent
+ORD-1988,,Mouse,8,$457.78,3808.7,eu,alice,0.03,repeat customer
+ORD-1989,2023-13-01,Tablet,,,,,Alice,,repeat customer
+ORD-1990,,Phone,,$2249.97,,LATAM,Frank,,urgent
+ORD-1991,,Tablet,5,,,,,,
+ORD-1992,17/5/2023,Phone,8,,,LATAM,alice,5%,urgent
+ORD-1993,2023-13-01,Camera,ten,$2202.03,,,Charlie,,
+ORD-1994,2023-07-01,Keyboard,ten,$291.24,,APAC,Doris,0.21,repeat customer
+ORD-1995,1/6/2023,Monitor,,,,EU,Charlie,,late payment
+ORD-1996,,Mouse,ten,,4026.63,,BOB,0.27,
+ORD-1997,2023-05-20,Camera,9,$1159.7,978.01,,Eve,0.12,repeat customer
+ORD-1998,,Keyboard,,$1350.63,,,,,
+ORD-1999,2023-13-01,Mouse,1,$345.57,,,Frank,,urgent
+ORD-2000,2023-02-16,Monitor,,,,APAC,Bob,,late payment
+ORD-2001,2023-01-13,Laptop,,,,,alice,,
+ORD-2002,2023-13-01,Headphones,ten,,,,BOB,0.1,
+ORD-2003,11/4/2023,Camera,10,,,,Charlie,5%,
+ORD-2004,2023-13-01,,,,1611.04,US,Charlie,5%,
+ORD-2005,2023-13-01,Headphones,,1537.05,,US,Bob,,
+ORD-2006,2023-11-13,Phone,,$1241.39,1966.88,APAC,Frank,0.13,late payment
+ORD-2007,26/5/2023,,7,$286.16,,eu,Doris,,late payment
+ORD-2008,,Camera,,$2434.52,,APAC,Eve,5%,
+ORD-2009,2023-05-12,Laptop,,,3392.01,LATAM,Bob,5%,repeat customer
+ORD-2010,,,10,,7643.93,eu,Charlie,0.15,repeat customer
+ORD-2011,13/11/2023,Phone,,1788.4,8013.95,,Doris,,late payment
+ORD-2012,13/10/2023,Mouse,ten,,,EU,Alice,0.26,
+ORD-2013,2023-13-01,Camera,,,,Usa,Eve,0.08,
+ORD-2014,,,ten,1131.34,,Usa,Doris,0.19,repeat customer
+ORD-2015,,,,$1323.96,,EU,Eve,,
+ORD-2016,2023-13-01,Printer,,948.34,,,Eve,5%,repeat customer
+ORD-2017,19/8/2023,Camera,ten,1424.35,,,Alice,5%,
+ORD-2018,2023-03-17,,ten,427.78,158.88,APAC,Alice,,
+ORD-2019,,Headphones,2,$2046.4,3732.99,eu,Alice,5%,
+ORD-2020,2023-06-21,,9,$698.15,,,Frank,0.25,urgent
+,,Tablet,,,,,BOB,,urgent
+ORD-2022,,Headphones,5,,,US,Bob,5%,late payment
+,,,,1933.34,,LATAM,alice,5%,late payment
+ORD-2024,,Tablet,,,,US,BOB,,
+ORD-2025,,Tablet,,,,LATAM,Charlie,0.01,repeat customer
+ORD-2026,12/8/2023,Headphones,,2444.67,,Usa,Charlie,,late payment
+ORD-2027,,Keyboard,ten,$968.89,7842.74,APAC,Eve,,repeat customer
+ORD-2028,,Mouse,9,,,eu,Charlie,,late payment
+ORD-2029,14/9/2023,Laptop,ten,,,EU,Alice,,repeat customer
+ORD-2030,,Tablet,ten,$2162.65,,Usa,Eve,0.0,
+ORD-2031,2023-13-01,Printer,4,,,Usa,Alice,0.14,late payment
+ORD-2032,2023-11-23,Phone,,,8860.23,US,Frank,0.06,urgent
+ORD-2033,2023-04-27,,ten,,,EU,Alice,,urgent
+ORD-2034,2023-13-01,Keyboard,ten,,,LATAM,alice,,late payment
+ORD-2035,2023-02-14,,ten,,8111.26,LATAM,Bob,,urgent
+ORD-2036,20/7/2023,,3,,,LATAM,Frank,5%,
+ORD-2037,,Laptop,,,,LATAM,,5%,late payment
+ORD-2038,,Tablet,9,,,EU,alice,,late payment
+ORD-2039,7/10/2023,Laptop,10,,,eu,Alice,0.2,repeat customer
+ORD-2040,,Phone,10,,6822.95,APAC,Charlie,,
+ORD-2041,2023-04-11,,3,$1670.48,,Usa,Alice,,urgent
+ORD-2042,7/12/2023,Mouse,,,,EU,BOB,,repeat customer
+ORD-2043,2023-13-01,,6,2284.5,,eu,Doris,0.29,repeat customer
+ORD-2044,2023-13-01,Tablet,ten,,,eu,Bob,,
+ORD-2045,12/6/2023,Mouse,,374.8,,,Alice,,
+ORD-2046,,Printer,,$1741.68,,eu,Charlie,5%,repeat customer
+ORD-2047,2023-13-01,Monitor,1,$1151.61,3348.4,LATAM,Charlie,0.19,urgent
+ORD-2048,,Tablet,5,1153.85,,APAC,Doris,,late payment
+ORD-2049,2023-02-01,,7,,5109.26,EU,Charlie,0.27,urgent
+ORD-2050,2023-08-08,Keyboard,,,,APAC,Bob,,late payment
+ORD-2051,,,3,,3543.69,US,Eve,,urgent
+ORD-2052,2023-03-01,Mouse,ten,$1381.32,,APAC,Bob,5%,urgent
+ORD-2053,,Laptop,6,,,Usa,,,
+ORD-2054,2023-12-16,Headphones,9,,,LATAM,Bob,,
+ORD-2055,2023-13-01,Mouse,5,$2488.62,,APAC,Alice,5%,
+ORD-2056,27/4/2023,,3,,,LATAM,Charlie,0.28,urgent
+ORD-2057,20/12/2023,Laptop,3,327.68,,APAC,Doris,5%,
+ORD-2058,2023-13-01,Monitor,ten,1263.31,,LATAM,Alice,0.2,late payment
+ORD-2059,,Printer,,$248.92,1328.87,EU,Charlie,0.3,
+ORD-2060,2023-13-01,Headphones,10,$406.21,1202.12,eu,Doris,,urgent
+ORD-2061,2023-07-06,Monitor,,,,,alice,0.14,
+ORD-2062,,Mouse,6,,3012.03,,alice,5%,late payment
+ORD-2063,,Mouse,,,1905.83,,Charlie,0.13,urgent
+ORD-2064,7/7/2023,Mouse,,673.72,,US,alice,5%,late payment
+ORD-2065,,Keyboard,ten,$2014.44,,,Charlie,0.27,late payment
+ORD-2066,2023-04-08,Monitor,2,,,eu,Frank,,
+ORD-2067,,,,$907.63,,,Eve,,urgent
+ORD-2068,2023-13-01,Keyboard,6,,,eu,,,repeat customer
+ORD-2069,,Headphones,,$2135.09,,APAC,Doris,0.11,late payment
+ORD-2070,2023-13-01,,ten,,,Usa,Eve,0.06,
+ORD-2071,25/8/2023,Phone,1,1340.05,,Usa,Charlie,0.04,urgent
+ORD-2072,2023-13-01,Mouse,ten,,7393.85,,,,late payment
+ORD-2073,2023-11-22,Printer,ten,2175.54,,Usa,Charlie,,
+ORD-2074,2023-13-01,Headphones,ten,1175.4,6460.6,Usa,Charlie,0.24,urgent
+ORD-2075,2023-06-11,Laptop,ten,$1709.22,666.47,Usa,BOB,5%,urgent
+ORD-2076,2023-10-10,Monitor,7,1241.0,1992.61,,Frank,5%,
+ORD-2077,1/10/2023,,ten,,,LATAM,Doris,5%,
+ORD-2078,17/10/2023,Laptop,,$1731.06,7820.77,APAC,Doris,0.13,
+ORD-2079,2023-01-16,Camera,8,,7881.24,APAC,Doris,0.11,urgent
+ORD-2080,4/6/2023,Camera,ten,,,,Eve,,
+ORD-2081,25/5/2023,Tablet,ten,$2456.35,,EU,Bob,,late payment
+ORD-2082,22/12/2023,,ten,1838.29,,Usa,Doris,0.11,
+ORD-2083,24/8/2023,Phone,2,,2765.04,EU,BOB,5%,
+ORD-2084,18/6/2023,Laptop,ten,1939.17,,,Doris,,late payment
+ORD-2085,2023-06-24,Mouse,,1426.01,,eu,Bob,,late payment
+ORD-2086,,,,$1246.66,611.38,APAC,Alice,,repeat customer
+ORD-2087,,Phone,3,$192.5,,,alice,,
+,7/2/2023,Headphones,,$1996.75,,,Alice,,
+ORD-2089,,Mouse,ten,,,US,alice,5%,urgent
+ORD-2090,2023-13-01,Tablet,4,370.38,3526.21,Usa,BOB,,late payment
+ORD-2091,2023-08-26,Laptop,ten,,,,BOB,,
+ORD-2092,,Mouse,7,649.76,,Usa,Doris,0.14,
+ORD-2093,14/10/2023,Printer,8,,,,Doris,0.1,late payment
+ORD-2094,2023-13-01,Phone,ten,,3004.1,Usa,Eve,,
+ORD-2095,22/7/2023,Keyboard,,,,eu,Bob,,
+ORD-2096,19/4/2023,Keyboard,,,,EU,,5%,repeat customer
+ORD-2097,17/7/2023,,ten,,1006.59,US,Alice,,repeat customer
+ORD-2098,2023-03-04,Printer,,$1301.24,,,Frank,5%,repeat customer
+,,Keyboard,7,379.47,8231.38,Usa,Bob,0.04,repeat customer
+ORD-2100,2023-13-01,Camera,,,,,Bob,5%,urgent
+ORD-2101,2023-13-01,Mouse,,,490.1,eu,Charlie,,repeat customer
+ORD-2102,2/4/2023,Keyboard,,465.95,196.98,,alice,,
+ORD-2103,2023-13-01,Tablet,,959.76,,US,BOB,,urgent
+ORD-2104,2023-13-01,Laptop,ten,,9473.02,APAC,,,
+ORD-2105,25/6/2023,Monitor,ten,$391.76,103.1,APAC,Frank,0.12,repeat customer
+ORD-2106,1/4/2023,Keyboard,,1108.02,,,Frank,0.28,
+ORD-2107,2023-13-01,Mouse,4,$1607.97,569.94,LATAM,,,repeat customer
+ORD-2108,2023-04-09,Tablet,,1151.55,,APAC,Charlie,5%,late payment
+ORD-2109,,Keyboard,,,,,Frank,,urgent
+ORD-2110,2023-10-28,Headphones,ten,$2302.04,,APAC,Frank,0.15,repeat customer
+ORD-2111,2023-13-01,Headphones,,$2288.0,,LATAM,Doris,0.14,repeat customer
+ORD-2112,,Camera,ten,,,EU,Bob,0.14,
+ORD-2113,21/4/2023,Mouse,,,7354.83,,Bob,5%,
+ORD-2114,,Tablet,3,$730.26,1138.74,,Frank,,
+ORD-2115,2023-07-28,Camera,ten,,8773.32,eu,,,
+ORD-2116,2023-06-01,Tablet,,,,LATAM,BOB,5%,
+ORD-2117,2023-13-01,Headphones,,,3195.88,APAC,Frank,0.17,
+ORD-2118,18/2/2023,,3,$1436.03,,US,Bob,,repeat customer
+,,Monitor,ten,$1803.3,6461.07,eu,Charlie,,urgent
+ORD-2120,2023-13-01,Phone,ten,1812.39,,LATAM,Charlie,0.02,repeat customer
+ORD-2121,2023-13-01,Keyboard,9,,,,alice,0.09,urgent
+ORD-2122,2023-02-17,Headphones,,1877.69,,APAC,,,
+ORD-2123,2023-13-01,Headphones,,,7752.96,,Charlie,5%,urgent
+ORD-2124,26/3/2023,Phone,ten,52.6,,eu,,0.07,late payment
+ORD-2125,2023-09-19,Phone,,,,US,Charlie,5%,urgent
+ORD-2126,,Headphones,ten,,,APAC,,,repeat customer
+ORD-2127,2023-13-01,Tablet,ten,2216.88,,APAC,alice,5%,
+ORD-2128,,Tablet,,$2145.91,8439.93,,Doris,,
+ORD-2129,2023-02-17,,,$1142.64,,US,Alice,5%,repeat customer
+ORD-2130,8/12/2023,Phone,ten,879.83,,EU,alice,,
+ORD-2131,2023-13-01,,3,1590.66,,LATAM,Bob,,
+ORD-2132,2023-07-04,Mouse,,$1337.77,,Usa,BOB,0.05,repeat customer
+ORD-2133,,Tablet,,,,APAC,Frank,,
+ORD-2134,2023-13-01,Tablet,10,$1572.23,,,Eve,,
+ORD-2135,,Keyboard,,,4062.22,LATAM,,0.25,
+ORD-2136,2023-13-01,Monitor,7,2493.13,,EU,Charlie,,urgent
+ORD-2137,27/1/2023,Headphones,,107.32,,APAC,Eve,,late payment
+ORD-2138,18/9/2023,,,$1670.23,,,Eve,0.25,
+ORD-2139,2023-13-01,Laptop,1,,,US,Frank,0.19,late payment
+ORD-2140,9/10/2023,Printer,,,9140.67,US,,,urgent
+,2023-13-01,Phone,ten,,,EU,alice,,
+ORD-2142,2023-13-01,Laptop,ten,,,,BOB,,repeat customer
+ORD-2143,2023-13-01,Monitor,,,,eu,,,late payment
+ORD-2144,2023-10-14,Monitor,ten,788.22,,Usa,Frank,5%,
+ORD-2145,13/3/2023,Phone,,$1949.21,,,Charlie,,
+ORD-2146,2023-13-01,,,,,APAC,Frank,0.03,
+ORD-2147,2023-06-20,Laptop,6,,3092.05,eu,BOB,,
+ORD-2148,7/6/2023,Keyboard,,,,eu,BOB,,
+ORD-2149,2023-06-08,Monitor,4,1329.33,6886.92,APAC,alice,,
+ORD-2150,2023-13-01,Tablet,,,,US,Frank,,late payment
+ORD-2151,11/12/2023,Printer,9,262.8,,,Doris,,
+ORD-2152,24/7/2023,,7,,,eu,alice,,late payment
+ORD-2153,2023-06-02,Laptop,2,,2286.47,LATAM,Frank,0.05,
+ORD-2154,10/5/2023,,,,,,Frank,,
+ORD-2155,12/9/2023,Camera,2,,,US,Charlie,5%,
+ORD-2156,2023-13-01,,,,,LATAM,alice,5%,
+ORD-2157,3/3/2023,,ten,,8490.72,US,Doris,,
+ORD-2158,1/1/2023,Phone,,$932.31,,,Doris,,urgent
+ORD-2159,2023-11-11,Printer,,495.95,7463.83,US,Doris,0.24,urgent
+ORD-2160,,Keyboard,,,432.2,Usa,,0.24,urgent
+ORD-2161,,Monitor,7,,,APAC,BOB,,
+ORD-2162,2023-13-01,Monitor,10,,,US,Frank,,
+ORD-2163,,Monitor,,1424.57,,LATAM,alice,0.29,repeat customer
+ORD-2164,,Laptop,,,56.81,eu,Charlie,,late payment
+ORD-2165,2023-12-22,Phone,,$815.09,,eu,alice,0.25,late payment
+ORD-2166,2023-01-07,Tablet,ten,,2093.22,US,Eve,,
+ORD-2167,19/6/2023,Laptop,,,,EU,Charlie,,
+ORD-2168,2023-05-28,Monitor,,,2666.16,EU,alice,0.24,urgent
+ORD-2169,24/1/2023,Keyboard,4,,,Usa,,5%,repeat customer
+ORD-2170,2023-08-15,Monitor,1,,,,Alice,5%,
+ORD-2171,2023-13-01,Phone,ten,,4507.6,EU,Eve,0.23,urgent
+ORD-2172,2023-13-01,Phone,ten,$934.37,,US,Alice,,urgent
+ORD-2173,,Laptop,,,,,Doris,,urgent
+ORD-2174,2023-13-01,Laptop,ten,439.25,,,,,repeat customer
+ORD-2175,,,3,2336.28,,LATAM,alice,,repeat customer
+ORD-2176,2023-06-07,Laptop,,1194.73,966.84,APAC,Frank,0.29,urgent
+ORD-2177,15/2/2023,Laptop,ten,,,,Bob,,repeat customer
+ORD-2178,2023-13-01,Keyboard,7,$286.29,5476.1,,Alice,,repeat customer
+ORD-2179,2023-13-01,Tablet,,369.12,1449.27,LATAM,Eve,5%,urgent
+ORD-2180,,Tablet,7,,3164.9,APAC,BOB,,
+ORD-2181,1/11/2023,Keyboard,,,380.18,US,Bob,0.1,repeat customer
+ORD-2182,2023-13-01,,,,,,Alice,,late payment
+ORD-2183,,,9,2442.03,,APAC,Bob,0.13,urgent
+ORD-2184,25/9/2023,Headphones,ten,$1965.7,,,Eve,0.13,
+ORD-2185,2023-13-01,Keyboard,ten,$2140.65,668.52,LATAM,BOB,5%,urgent
+ORD-2186,2023-06-01,Laptop,1,,,,Doris,0.18,urgent
+ORD-2187,2023-10-25,Phone,5,1021.42,,APAC,Doris,,repeat customer
+ORD-2188,,,,,3009.01,,BOB,,repeat customer
+,2023-13-01,,ten,$2226.89,9531.39,US,,,urgent
+ORD-2190,2023-13-01,Mouse,ten,,1509.31,LATAM,Eve,0.24,urgent
+ORD-2191,,Headphones,,,,eu,alice,5%,urgent
+ORD-2192,2023-09-05,Tablet,9,$389.0,,,Eve,5%,
+ORD-2193,,Keyboard,ten,,6375.36,,Eve,5%,late payment
+ORD-2194,10/2/2023,,ten,1383.63,6869.32,APAC,Frank,0.1,late payment
+ORD-2195,,,ten,147.9,547.28,LATAM,,0.04,urgent
+ORD-2196,,Phone,6,,,Usa,Alice,,
+ORD-2197,2023-13-01,Keyboard,7,$770.6,,,Doris,,
+ORD-2198,2023-13-01,Monitor,,$1861.37,,,Charlie,,
+ORD-2199,14/9/2023,Tablet,6,,6685.1,,BOB,,
